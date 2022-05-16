@@ -1,0 +1,1051 @@
+﻿Log file open, 04/25/22 22:23:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5640)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoad
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\CrossyRoad.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a67e2a8240a5bd5262b664838c4e16cb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.946419
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7DBC091A4EA6E3992727B68135EC1321
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.24 seconds
+LogConfig: Display: Loading Android ini files took 0.25 seconds
+LogConfig: Display: Loading IOS ini files took 0.29 seconds
+LogConfig: Display: Loading Linux ini files took 0.44 seconds
+LogConfig: Display: Loading Mac ini files took 0.21 seconds
+LogConfig: Display: Loading TVOS ini files took 0.28 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.36 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading VulkanPC ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading Unix ini files took 0.27 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading Windows ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.04.26-05.23.44:566][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.04.26-05.23.44:566][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.04.26-05.23.44:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.04.26-05.23.44:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.04.26-05.23.44:567][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.04.26-05.23.44:568][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.04.26-05.23.44:582][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.04.26-05.23.44:582][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.04.26-05.23.44:582][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.04.26-05.23.44:583][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.04.26-05.23.44:677][  0]LogD3D12RHI: Aftermath initialized
+[2022.04.26-05.23.44:678][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.04.26-05.23.44:805][  0]LogD3D12RHI: Found D3D12 adapter 0: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.04.26-05.23.44:805][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8109MB of shared system memory, 2 output[s]
+[2022.04.26-05.23.44:872][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.04.26-05.23.44:872][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8109MB of shared system memory, 0 output[s]
+[2022.04.26-05.23.44:873][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.04.26-05.23.44:873][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.26-05.23.44:873][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.04.26-05.23.44:873][  0]LogHAL: Display: Platform has ~ 16 GB [17005834240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.26-05.23.44:873][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.04.26-05.23.44:873][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.04.26-05.23.44:874][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.26-05.23.44:876][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.04.26-05.23.44:876][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/Config/WindowsEditor/Editor.ini]
+[2022.04.26-05.23.44:877][  0]LogInit: Computer: DESKTOP-3S560BP
+[2022.04.26-05.23.44:877][  0]LogInit: User: sys98
+[2022.04.26-05.23.44:877][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.04.26-05.23.44:877][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.26-05.23.44:877][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.04.26-05.23.44:877][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.04.26-05.23.44:877][  0]LogMemory: Process Physical Memory: 258.24 MB used, 260.10 MB peak
+[2022.04.26-05.23.44:877][  0]LogMemory: Process Virtual Memory: 202.02 MB used, 202.02 MB peak
+[2022.04.26-05.23.44:877][  0]LogMemory: Physical Memory: 8635.79 MB used,  7582.24 MB free, 16218.03 MB total
+[2022.04.26-05.23.44:877][  0]LogMemory: Virtual Memory: 11109.56 MB used,  13300.46 MB free, 24410.03 MB total
+[2022.04.26-05.23.44:877][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.04.26-05.23.44:946][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.26-05.23.45:031][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.04.26-05.23.45:032][  0]LogInit: Using OS detected language (en-US).
+[2022.04.26-05.23.45:032][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.26-05.23.45:049][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.04.26-05.23.45:585][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.26-05.23.45:637][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.04.26-05.23.45:637][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.04.26-05.23.45:637][  0]LogWindowsTextInputMethodSystem:   - Korean (Korea) - Microsoft IME (TSF IME).
+[2022.04.26-05.23.45:637][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.04.26-05.23.45:637][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.04.26-05.23.45:705][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.26-05.23.45:705][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.26-05.23.46:471][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.04.26-05.23.46:471][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.04.26-05.23.46:514][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.04.26-05.23.46:851][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.04.26-05.23.46:927][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.04.26-05.23.47:009][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.04.26-05.23.47:026][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.04.26-05.23.47:026][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.04.26-05.23.47:490][  0]LogD3D12RHI: Failed to load Intel Extensions Library
+[2022.04.26-05.23.47:490][  0]LogD3D12RHI:     GPU DeviceId: 0x9b41 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.26-05.23.47:490][  0]LogWindows: EnumDisplayDevices:
+[2022.04.26-05.23.47:491][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.04.26-05.23.47:495][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:1)
+[2022.04.26-05.23.47:501][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.04.26-05.23.47:504][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.04.26-05.23.47:504][  0]LogD3D12RHI:     Adapter Name: Intel(R) UHD Graphics
+[2022.04.26-05.23.47:504][  0]LogD3D12RHI:   Driver Version: 27.20.100.8681 (internal:27.20.100.8681, unified:100.8681)
+[2022.04.26-05.23.47:504][  0]LogD3D12RHI:      Driver Date: 9-5-2020
+[2022.04.26-05.23.47:504][  0]LogRHI: Texture pool is 4691 MB (70% of 6702 MB)
+[2022.04.26-05.23.47:504][  0]LogD3D12RHI: Async texture creation enabled
+[2022.04.26-05.23.47:504][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2022.04.26-05.23.47:581][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/CrossyRoad.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Intermediate/TurnkeyReport_0.log" -log="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Intermediate/TurnkeyLog_0.log" -project="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/CrossyRoad.uproject"  -platform=all'
+[2022.04.26-05.23.47:581][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/CrossyRoad.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Intermediate/TurnkeyReport_0.log" -log="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Intermediate/TurnkeyLog_0.log" -project="C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/CrossyRoad.uproject"  -platform=all" ]
+[2022.04.26-05.23.47:744][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.04.26-05.23.47:806][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.04.26-05.23.47:806][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.26-05.23.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.26-05.23.48:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.04.26-05.23.48:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.04.26-05.23.48:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.26-05.23.48:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.26-05.23.48:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.26-05.23.48:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.04.26-05.23.48:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.26-05.23.48:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.26-05.23.48:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.04.26-05.23.48:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.04.26-05.23.48:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.04.26-05.23.48:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.26-05.23.48:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.26-05.23.48:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.26-05.23.48:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.04.26-05.23.48:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.26-05.23.48:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.26-05.23.48:173][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.04.26-05.23.48:229][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.26-05.23.48:254][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.04.26-05.23.48:254][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.04.26-05.23.48:254][  0]LogTargetPlatformManager:   ADPCM
+[2022.04.26-05.23.48:254][  0]LogTargetPlatformManager:   PCM
+[2022.04.26-05.23.48:277][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.04.26-05.23.48:277][  0]LogTargetPlatformManager:   BINKA
+[2022.04.26-05.23.48:277][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.04.26-05.23.48:277][  0]LogTargetPlatformManager:   OGG
+[2022.04.26-05.23.48:277][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.04.26-05.23.48:277][  0]LogTargetPlatformManager:   OPUS
+[2022.04.26-05.23.48:499][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   SF_METAL
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.04.26-05.23.48:545][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.04.26-05.23.48:568][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.04.26-05.23.48:568][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.04.26-05.23.48:568][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.04.26-05.23.48:568][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.04.26-05.23.48:568][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.04.26-05.23.48:568][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.04.26-05.23.48:568][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.04.26-05.23.48:569][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.26-05.23.48:569][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.04.26-05.23.48:570][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.26-05.23.48:570][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.04.26-05.23.48:571][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.26-05.23.48:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.26-05.23.48:583][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.04.26-05.23.48:584][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.26-05.23.48:584][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.04.26-05.23.48:673][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.04.26-05.23.48:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.26-05.23.48:673][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.04.26-05.23.48:740][  0]LogDerivedDataCache: Speed tests for C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2022.04.26-05.23.48:740][  0]LogDerivedDataCache: Display: Performance to C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=38.88MBs, RandomWriteSpeed=22.30MBs. Assigned SpeedClass 'Local'
+[2022.04.26-05.23.48:744][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.26-05.23.48:746][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.26-05.23.48:746][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.04.26-05.23.48:789][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.04.26-05.23.48:789][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.04.26-05.23.48:792][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Intermediate/Shaders/WorkingDirectory/18160/).
+[2022.04.26-05.23.48:792][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sys98/AppData/Local/Temp/UnrealShaderWorkingDir/A4E1A3CF454E12A32E93B1B51B22E894/'.
+[2022.04.26-05.23.48:794][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.26-05.23.48:794][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.04.26-05.23.56:650][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.04.26-05.23.56:651][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.26-05.23.56:653][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.26-05.23.56:832][  0]LogAssetRegistry: FAssetRegistry took 0.0683 seconds to start up
+[2022.04.26-05.23.56:855][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.04.26-05.23.57:729][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.04.26-05.23.57:731][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.04.26-05.23.59:330][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.26-05.23.59:330][  0]LogDeviceProfileManager: Active device profile: [00000A8361257700][00000A8353715000 50] WindowsEditor
+[2022.04.26-05.23.59:330][  0]LogDeviceProfileManager: Profiles: [00000A83612571C0][00000A835371A000 50] Windows, [00000A8361257700][00000A8353715000 50] WindowsEditor, [00000A8361256200][00000A8353712800 50] WindowsServer, [00000A8361252F40][00000A835362A000 50] WindowsClient, [00000A8361252680][00000A8353717800 50] IOS, [00000A8361256E40][00000A8361560000 50] iPadAir2, [00000A8361257E00][00000A8361567800 50] IPadPro, [00000A8361258180][00000A8361565000 50] iPadAir3, [00000A8361256AC0][00000A836156A000 50] iPadAir4, [00000A8361258340][00000A836156C800 50] iPadMini4, [00000A8361257A80][00000A8343F25000 50] iPadMini5, [00000A8361256C80][00000A8361590000 50] iPadMini6, [00000A836125A2C0][00000A836159A000 50] iPhone6S, [00000A836125A640][00000A8361597800 50] iPhone7, [00000A836125A9C0][00000A8361595000 50] iPodTouch7, [00000A8361254EC0][00000A836159C800 50] iPhone6SPlus, [00000A836125A100][00000A8361562800 50] iPhone7Plus, [00000A8361254280][00000A83615A0000 50] iPhoneSE, [00000A8361257FC0][00000A83615A5000 50] iPhone8, [00000A8361259F40][00000A83615A7800 50] iPhone8Plus, [00000A83612586C0][00000A83615AA000 50] iPhoneX, [00000A8361259D80][00000A83615AC800 50] iPhoneXS, [00000A8361257540][00000A8361592800 50] iPhoneXSMax, [00000A8361259BC0][00000A83615B0000 50] iPhoneXR, [00000A8361254600][00000A83615B5000 50] iPhone11, [00000A8361255E80][00000A83615B7800 50] iPhone11Pro, [00000A83612539C0][00000A83615BA000 50] iPhone11ProMax, [00000A83612547C0][00000A83615BC800 50] iPhoneSE2, [00000A8361256900][00000A83615A2800 50] iPhone12Mini, [00000A8361253B80][00000A83615C0000 50] iPhone12, [00000A8361255400][00000A83615C5000 50] iPhone12Pro, [00000A8361259140][00000A83615C7800 50] iPhone12ProMax, [00000A8361255780][00000A83615CA000 50] iPhone13Mini, [00000A8361258F80][00000A83615CC800 50] iPhone13, [00000A8361256580][00000A83615B2800 50] iPhone13Pro, [00000A83612524C0][00000A83615D0000 50] iPhone13ProMax, [00000A8361251F80][00000A83615D5000 50] iPadPro105, [00000A8361253100][00000A83615D7800 50] iPadPro129, [00000A8361259A00][00000A83615DA000 50] iPadPro97, [00000A8361258C00][00000A83615DC800 50] iPadPro2_129, [00000A8361255CC0][00000A83615C2800 50] iPad5, [00000A83612532C0][00000A83615E0000 50] iPad6, [00000A8361255240][00000A83615E5000 50] iPad7, [00000A8361257000][00000A83615E7800 50] iPad8, [00000A8361253480][00000A83615EA000 50] iPad9, [00000A8361258880][00000A83615EC800 50] iPadPro11, [00000A8361253F00][00000A83615D2800 50] iPadPro2_11, [00000A8361259840][00000A83615F0000 50] iPadPro3_11, [00000A836125A480][00000A83615F5000 50] iPadPro3_129, [00000A8361254440][00000A83615F7800 50] iPadPro4_129, [00000A8361253D40][00000A83615FA000 50] iPadPro5_129, [00000A83612555C0][00000A83615FC800 50] AppleTV, [00000A83612540C0][00000A83615E2800 50] AppleTV4K, [00000A8361258500][00000A8361600000 50] TVOS, [00000A836125CB00][00000A8361607800 50] Mac, [00000A836125CE80][00000A8361605000 50] MacEditor, [00000A836125C080][00000A836160A000 50] MacClient, [00000A8361252840][00000A836160C800 50] MacServer, [00000A836125D040][00000A8361620000 50] Linux, [00000A8361257C40][00000A8361622800 50] LinuxEditor, [00000A836125B280][00000A8361627800 50] LinuxArm64Editor, [00000A836125D580][00000A836162A000 50] LinuxArm64, [00000A8361259300][00000A836162C800 50] LinuxClient, [00000A8361259680][00000A83615F2800 50] LinuxArm64Client, [00000A836125C240][00000A8361625000 50] LinuxServer, [00000A836125C940][00000A8361610000 50] LinuxArm64Server, [00000A836125AF00][00000A8361615000 50] Android, [00000A836125D740][00000A8361617800 50] Android_Preview_OpenGL, [00000A836125C5C0][00000A836161A000 50] Android_Preview_Vulkan, [00000A8361255940][00000A836161C800 50] Android_Low, [00000A836125AB80][00000A8361602800 50] Android_Mid, [00000A836125B7C0][00000A8361630000 50] Android_High, [00000A836125A800][00000A8361635000 50] Android_Default, [00000A836125C780][00000A8361637800 50] Android_Adreno4xx, [00000A8361253800][00000A836163A000 50] Android_Adreno5xx_Low, [00000A8361254B40][00000A836163C800 50] Android_Adreno5xx, [00000A83612594C0][00000A8361612800 50] Android_Adreno6xx, [00000A8361254D00][00000A8361640000 50] Android_Adreno6xx_Vulkan, [00000A8361255080][00000A8361645000 50] Android_Adreno7xx, [00000A836125CCC0][00000A8361647800 50] Android_Adreno7xx_Vulkan, [00000A836125B600][00000A836164A000 50] Android_Mali_T6xx, [00000A8361258A40][00000A836164C800 50] Android_Mali_T7xx, [00000A836125AD40][00000A8361632800 50] Android_Mali_T8xx, [00000A8361256040][00000A8361650000 50] Android_Mali_G71, [00000A836125D900][00000A8361655000 50] Android_Mali_G72, [00000A836125BB40][00000A8361657800 50] Android_Mali_G72_Vulkan, [00000A8361256740][00000A836165A000 50] Android_Mali_G76, [00000A836125D3C0][00000A836165C800 50] Android_Mali_G76_Vulkan, [00000A83612563C0][00000A8361642800 50] Android_Mali_G77, [00000A8361258DC0][00000A8361660000 50] Android_Mali_G77_Vulkan, [00000A836125E380][00000A8361665000 50] Android_Mali_G78, [00000A836125EC40][00000A8361667800 50] Android_Mali_G78_Vulkan, [00000A836125EE00][00000A836166A000 50] Android_Mali_G710, [00000A836125E700][00000A836166C800 50] Android_Mali_G710_Vulkan, [00000A836125DAC0][00000A8361652800 50] Android_Xclipse_920, [00000A8361255B00][00000A8361670000 50] Android_Xclipse_920_Vulkan, [00000A836125B980][00000A8361675000 50] Android_Vulkan_SM5, [00000A836125E1C0][00000A8361677800 50] Android_PowerVR_G6xxx, [00000A836125EFC0][00000A836167A000 50] Android_PowerVR_GT7xxx, [00000A836125B440][00000A836167C800 50] Android_PowerVR_GE8xxx, [00000A836125F180][00000A8361662800 50] Android_PowerVR_GM9xxx, [00000A8361254980][00000A8361680000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A836125C400][00000A8361685000 50] Android_TegraK1, [00000A8361690380][00000A8361687800 50] Android_Unknown_Vulkan, [00000A8361692300][00000A836168A000 50] Oculus_Quest, [00000A8361692140][00000A836168C800 50] Oculus_Quest2, [00000A8361691F80][00000A8361672800 50] HoloLens, 
+[2022.04.26-05.23.59:330][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.04.26-05.23.59:341][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.04.26-05.23.59:342][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.04.26-05.23.59:342][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.26-05.23.59:342][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.26-05.23.59:342][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.04.26-05.23.59:452][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.04.26-05.24.00:369][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.26-05.24.00:369][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.26-05.24.00:369][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.26-05.24.00:369][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.26-05.24.00:369][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.26-05.24.00:449][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2078340869)
+[2022.04.26-05.24.01:116][  0]LogSlate: Border
+[2022.04.26-05.24.01:116][  0]LogSlate: BreadcrumbButton
+[2022.04.26-05.24.01:116][  0]LogSlate: Default
+[2022.04.26-05.24.01:116][  0]LogSlate: Icons.Save
+[2022.04.26-05.24.01:117][  0]LogSlate: Icons.Toolbar.Settings
+[2022.04.26-05.24.01:117][  0]LogSlate: ListView
+[2022.04.26-05.24.01:117][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.04.26-05.24.01:117][  0]LogSlate: SoftwareCursor_Grab
+[2022.04.26-05.24.01:117][  0]LogSlate: TableView.DarkRow
+[2022.04.26-05.24.01:117][  0]LogSlate: TableView.Row
+[2022.04.26-05.24.01:117][  0]LogSlate: TreeView
+[2022.04.26-05.24.02:011][  0]SourceControl: Source control is disabled
+[2022.04.26-05.24.02:152][  0]SourceControl: Source control is disabled
+[2022.04.26-05.24.02:152][  0]SourceControl: Source control is disabled
+[2022.04.26-05.24.02:715][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.04.26-05.24.02:715][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.04.26-05.24.02:715][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.26-05.24.04:687][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CCB914194409E47E1FCEA9B4E4401908 | Instance: 9157E2594E8F6A647D6B80AD1C1641A1 (DESKTOP-3S560BP-18160).
+[2022.04.26-05.24.04:859][  0]LogPython: Using Python 3.9.7
+[2022.04.26-05.24.08:182][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.26-05.24.08:202][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.26-05.24.08:665][  0]SourceControl: Source control is disabled
+[2022.04.26-05.24.08:685][  0]SourceControl: Source control is disabled
+[2022.04.26-05.24.08:717][  0]SourceControl: Source control is disabled
+[2022.04.26-05.24.08:809][  0]LogUProjectInfo: Found projects:
+[2022.04.26-05.24.10:789][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.26-05.24.11:075][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.26-05.24.11:182][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.26-05.24.11:183][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.26-05.24.11:679][  0]LogCollectionManager: Loaded 0 collections in 0.005840 seconds
+[2022.04.26-05.24.12:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/Collections/' took 0.00s
+[2022.04.26-05.24.12:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/Developers/sys98/Collections/' took 0.01s
+[2022.04.26-05.24.12:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/Collections/' took 0.01s
+[2022.04.26-05.24.13:698][  0]LogEngine: Initializing Engine...
+[2022.04.26-05.24.13:761][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.04.26-05.24.13:767][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.26-05.24.14:308][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.26-05.24.14:309][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.26-05.24.14:326][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.24.14:381][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.26-05.24.14:382][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.26-05.24.14:428][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.26-05.24.14:429][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.26-05.24.14:429][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.04.26-05.24.14:429][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.26-05.24.14:429][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.26-05.24.14:429][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-05.24.14:429][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-05.24.14:429][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-05.24.14:429][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-05.24.14:429][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-05.24.14:429][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.26-05.24.14:429][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-05.24.14:429][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-05.24.14:430][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-05.24.14:430][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-05.24.14:430][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-05.24.14:443][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.26-05.24.14:684][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.04.26-05.24.14:684][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-05.24.14:691][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-05.24.14:691][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-05.24.14:691][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.04.26-05.24.14:691][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.26-05.24.14:693][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.26-05.24.14:693][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.04.26-05.24.14:693][  0]LogInit: FAudioDevice initialized.
+[2022.04.26-05.24.14:694][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.26-05.24.14:694][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.26-05.24.14:694][  0]LogInit: Texture streaming: Enabled
+[2022.04.26-05.24.14:794][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.04.26-05.24.14:830][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.26-05.24.14:830][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A81BE8E0-446B-10B9-B485-E197BD83B425}
+[2022.04.26-05.24.14:900][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.04.26-05.24.14:924][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.04.26-05.24.14:924][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.04.26-05.24.18:880][  0]LogLiveCoding: Display: First instance in process group "UE_CrossyRoad_0x41b46b6d", spawning console
+[2022.04.26-05.24.18:880][  0]LogLiveCoding: Display: Waiting for server
+[2022.04.26-05.24.18:880][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.04.26-05.24.18:925][  0]LogInit: Transaction tracking system initialized
+[2022.04.26-05.24.19:064][  0]BlueprintLog: New page: Editor Load
+[2022.04.26-05.24.19:405][  0]LocalizationService: Localization service is disabled
+[2022.04.26-05.24.19:479][  0]TimingProfiler: Initialize
+[2022.04.26-05.24.19:479][  0]TimingProfiler: OnSessionChanged
+[2022.04.26-05.24.19:479][  0]LoadingProfiler: Initialize
+[2022.04.26-05.24.19:479][  0]LoadingProfiler: OnSessionChanged
+[2022.04.26-05.24.19:479][  0]NetworkingProfiler: Initialize
+[2022.04.26-05.24.19:479][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.26-05.24.19:479][  0]MemoryProfiler: Initialize
+[2022.04.26-05.24.19:480][  0]MemoryProfiler: OnSessionChanged
+[2022.04.26-05.24.20:988][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/' took 0.01s
+[2022.04.26-05.24.20:988][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.04.26-05.24.21:106][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.26-05.24.21:109][  0]SourceControl: Source control is disabled
+[2022.04.26-05.24.21:109][  0]LogUnrealEdMisc: Loading editor; pre map load, took 44.357
+[2022.04.26-05.24.21:109][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.26-05.24.21:109][  0]LightingResults: New page: Lighting Build
+[2022.04.26-05.24.21:120][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-05.24.21:120][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-05.24.21:120][  0]MapCheck: New page: Map Check
+[2022.04.26-05.24.21:120][  0]LightingResults: New page: Lighting Build
+[2022.04.26-05.24.21:131][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-05.24.21:135][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.26-05.24.21:194][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.04.26-05.24.21:203][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.24.21:204][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.04.26-05.24.21:205][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.04.26-05.24.21:205][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.04.26-05.24.21:613][  0]LogWorldPartition: Display: WorldPartition initialize took 407 ms
+[2022.04.26-05.24.21:899][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.26-05.24.21:909][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.26-05.24.21:910][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.26-05.24.21:924][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 14.055ms to complete.
+[2022.04.26-05.24.21:924][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.815
+[2022.04.26-05.24.21:941][  0]LogUnrealEdMisc: Total Editor Startup Time, took 45.189
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: ================================================
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.04.26-05.24.21:941][  0]LogShaderCompilers: Display: ================================================
+[2022.04.26-05.24.22:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-05.24.22:137][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:137][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:138][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:138][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:139][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:139][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:139][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:139][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:141][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:141][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:141][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:141][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:142][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:142][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:143][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:143][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:143][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:144][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:144][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.04.26-05.24.22:144][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.26-05.24.22:297][  0]LogStall: Startup...
+[2022.04.26-05.24.22:299][  0]LogStall: Startup complete.
+[2022.04.26-05.24.22:330][  0]LogLoad: (Engine Initialization) Total time: 45.58 seconds
+[2022.04.26-05.24.22:330][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.26-05.24.22:354][  0]LogAssetRegistry: Asset discovery search completed in 25.5284 seconds
+[2022.04.26-05.24.22:361][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.04.26-05.24.22:361][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.26-05.24.22:418][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.26-05.24.22:421][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.26-05.24.22:423][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.26-05.24.22:425][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.26-05.24.23:191][  0]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.04.26-05.24.24:015][  0]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.04.26-05.24.26:902][ 49]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.26-05.24.26:915][ 49]LogSlate: Took 0.000708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.26-05.24.29:636][ 67]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.24.29:637][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.24.31:332][ 67]LogSlate: Took 0.000887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.26-05.25.01:427][717]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2022.04.26-05.25.35:232][893]LogSlate: Took 0.000496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.26-05.25.49:896][ 73]LogDerivedDataCache: C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.146 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.26-05.26.32:672][392]BlueprintLog: New page: Compile BP_Road
+[2022.04.26-05.26.32:915][392]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2022.04.26-05.26.34:136][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Road" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset" SILENT=true
+[2022.04.26-05.26.34:151][397]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.014115 seconds
+[2022.04.26-05.26.34:168][397]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Road
+[2022.04.26-05.26.34:170][397]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadCE42EEE442E1667EC8A2C8B8DF85D0E7.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset'
+[2022.04.26-05.26.34:199][397]AssetCheck: New page: Asset Save: BP_Road
+[2022.04.26-05.26.34:199][397]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.26.36:277][410]LogSlate: Window 'BP_Road' being destroyed
+[2022.04.26-05.26.36:460][410]LogSlate: Window 'BP_Road' being destroyed
+[2022.04.26-05.26.36:483][410]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-05.26.36:483][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-05.26.43:592][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.04.26-05.26.43:794][450]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CrossyRoad.CrossyRoad
+[2022.04.26-05.26.43:794][450]Cmd: MAP LOAD FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/CrossyRoad.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.26-05.26.43:794][450]LightingResults: New page: Lighting Build
+[2022.04.26-05.26.43:794][450]LoadErrors: New page: Loading map: CrossyRoad.umap
+[2022.04.26-05.26.43:848][450]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-05.26.43:848][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-05.26.43:850][450]MapCheck: New page: Map Check
+[2022.04.26-05.26.43:850][450]LightingResults: New page: Lighting Build
+[2022.04.26-05.26.43:876][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-05.26.43:929][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.04.26-05.26.43:950][450]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-05.26.43:950][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-05.26.43:978][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.04.26-05.26.44:004][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.04.26-05.26.44:019][450]LogAudio: Display: Audio Device (ID: 1) registered with world 'CrossyRoad'.
+[2022.04.26-05.26.44:019][450]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.26-05.26.44:019][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.26.44:019][450]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.04.26-05.26.44:028][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.26-05.26.44:056][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.04.26-05.26.44:068][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.26-05.26.44:068][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2022.04.26-05.26.44:068][450]LogFileHelpers: Loading map 'CrossyRoad' took 0.274
+[2022.04.26-05.26.44:348][453]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.04.26-05.27.02:608][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_Road.BP_Road_C
+[2022.04.26-05.27.02:608][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_Road.BP_Road_C
+[2022.04.26-05.27.02:611][589]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_Road.BP_Road as actor: BP_Road_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_Road_C_0
+[2022.04.26-05.27.02:613][589]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_Road.BP_Road as actor: BP_Road_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_Road_C_0
+[2022.04.26-05.27.04:235][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_Road.BP_Road_C
+[2022.04.26-05.27.04:235][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_Road.BP_Road_C
+[2022.04.26-05.27.04:247][612]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_Road.BP_Road as actor: BP_Road_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_Road_C_1
+[2022.04.26-05.27.04:250][612]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_Road.BP_Road as actor: BP_Road_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_Road_C_1
+[2022.04.26-05.27.05:323][623]Cmd: DELETE
+[2022.04.26-05.27.05:323][623]Cmd: ACTOR DELETE
+[2022.04.26-05.27.05:332][623]LogEditorActor: Deleted Actor: BP_Road_C
+[2022.04.26-05.27.05:451][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.04.26-05.27.05:456][623]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2022.04.26-05.27.09:909][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.27.09:910][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.27.55:542][353]LogSlate: Window 'BP_Road' being destroyed
+[2022.04.26-05.27.55:578][353]LogSlate: Window 'BP_Road' being destroyed
+[2022.04.26-05.27.55:587][353]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-05.27.55:587][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-05.28.06:279][582]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.26-05.28.44:527][582]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.26-05.28.44:536][582]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.26-05.28.44:541][582]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.26-05.28.44:554][583]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.04.26-05.28.52:371][698]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.04.26-05.28.52:387][698]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.26-05.28.52:541][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.28.52:541][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.28.56:652][739]LogSlate: Window 'BP_Road' being destroyed
+[2022.04.26-05.28.56:781][739]LogSlate: Window 'BP_Road' being destroyed
+[2022.04.26-05.28.56:799][739]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-05.28.56:800][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-05.29.02:749][822]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.26-05.29.02:750][822]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.26-05.29.03:595][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.26-05.29.05:966][868]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-05.29.06:039][868]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BluePrints/BP_Road.BP_Road
+	Asset Type: Blueprint
+[2022.04.26-05.29.06:319][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.04.26-05.29.06:368][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.04.26-05.29.06:395][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.04.26-05.29.06:419][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.26-05.29.35:094][ 90]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint
+[2022.04.26-05.29.35:095][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.32.12:684][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/NewBlueprint" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset" SILENT=true
+[2022.04.26-05.32.12:694][395]LogSavePackage: Moving output files for package: /Game/BluePrints/NewBlueprint
+[2022.04.26-05.32.12:695][395]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/NewBlueprint811750FA4974F089257C5A80673E658A.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset'
+[2022.04.26-05.32.12:725][395]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.04.26-05.32.12:725][395]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint
+[2022.04.26-05.32.14:043][406]BlueprintLog: New page: Compile NewBlueprint
+[2022.04.26-05.32.14:233][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.04.26-05.32.15:523][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/NewBlueprint" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset" SILENT=true
+[2022.04.26-05.32.15:532][413]LogSavePackage: Moving output files for package: /Game/BluePrints/NewBlueprint
+[2022.04.26-05.32.15:534][413]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/NewBlueprintC28C946C4581E1638F4913AF47CACD9F.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset'
+[2022.04.26-05.32.15:558][413]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.04.26-05.32.15:559][413]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint
+[2022.04.26-05.32.21:090][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/NewBlueprint.NewBlueprint_C
+[2022.04.26-05.32.21:090][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/NewBlueprint.NewBlueprint_C
+[2022.04.26-05.32.21:091][457]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.NewBlueprint_C_0
+[2022.04.26-05.32.21:091][457]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.NewBlueprint_C_0
+[2022.04.26-05.32.23:804][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/NewBlueprint.NewBlueprint_C
+[2022.04.26-05.32.23:804][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/NewBlueprint.NewBlueprint_C
+[2022.04.26-05.32.23:806][494]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.NewBlueprint_C_1
+[2022.04.26-05.32.23:806][494]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.NewBlueprint_C_1
+[2022.04.26-05.33.03:439][800]LogEditorViewport: Clicking Background
+[2022.04.26-05.33.28:003][ 41]BlueprintLog: New page: Compile NewBlueprint
+[2022.04.26-05.33.28:247][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.04.26-05.33.45:722][151]BlueprintLog: New page: Compile NewBlueprint
+[2022.04.26-05.33.45:958][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.04.26-05.33.46:639][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/NewBlueprint" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset" SILENT=true
+[2022.04.26-05.33.46:649][154]LogSavePackage: Moving output files for package: /Game/BluePrints/NewBlueprint
+[2022.04.26-05.33.46:651][154]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/NewBlueprintECAD133243B6F1CC93FB77976BB601A1.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset'
+[2022.04.26-05.33.46:677][154]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.04.26-05.33.46:677][154]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint
+[2022.04.26-05.34.01:779][249]BlueprintLog: New page: Compile NewBlueprint
+[2022.04.26-05.34.02:020][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.04.26-05.34.02:682][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/NewBlueprint" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset" SILENT=true
+[2022.04.26-05.34.02:691][252]LogSavePackage: Moving output files for package: /Game/BluePrints/NewBlueprint
+[2022.04.26-05.34.02:692][252]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/NewBlueprint89BFDF1C435D6E90EF6739AD90E4A534.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/NewBlueprint.uasset'
+[2022.04.26-05.34.02:716][252]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.04.26-05.34.02:716][252]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/NewBlueprint.NewBlueprint
+[2022.04.26-05.35.08:486][144]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.26-05.35.58:200][555]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.35.58:201][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.35.59:262][556]LogPropertyNode: Warning: Object Property (ObjectProperty /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C:NewestRoad) has a null class, falling back to UObject
+[2022.04.26-05.36.39:216][ 37]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Road
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.BP_Road:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.SKEL_BP_Road_C' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.BP_Road_C' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.BP_Road:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.BP_Road:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.BP_Road:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.SKEL_BP_Road_C:UserConstructionScript' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.SKEL_BP_Road_C:ReceiveTick' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.SKEL_BP_Road_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:293][ 37]LogMetaData: Removing '/Game/BluePrints/BP_Road.SKEL_BP_Road_C:ReceiveBeginPlay' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2022.04.26-05.36.39:706][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Road" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset" SILENT=true
+[2022.04.26-05.36.39:717][ 37]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Road
+[2022.04.26-05.36.39:717][ 37]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_Road3A79ABA54BF61FE4B74EC6A3138ADC76.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset'
+[2022.04.26-05.36.39:825][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.04.26-05.36.39:884][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.04.26-05.36.39:937][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.26-05.36.39:947][ 37]AssetCheck: New page: Asset Save: BP_Road
+[2022.04.26-05.36.39:947][ 37]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.37.01:898][333]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.37.01:906][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Object Reference.' at  Set NewestRoad
+[2022.04.26-05.37.01:906][333]LogBlueprint: Warning: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Could not find a variable named "RoadSpawner" in 'BP_RoadSpawner'.
+Make sure 'BP_RoadSpawner' has been compiled for  Set RoadSpawner
+[2022.04.26-05.37.01:908][333]LogBlueprint: Warning: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Could not find a variable named "SpawnPoint" in 'BP_RoadSpawner'.
+Make sure 'BP_RoadSpawner' has been compiled for  Get SpawnPoint
+[2022.04.26-05.37.01:911][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Invalid pin connection from  Input Object  and  Newest Road : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2022.04.26-05.37.01:915][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Newest Road  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.37.01:917][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  Newest Road : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.37.01:918][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2022.04.26-05.37.01:920][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] The property associated with  Road Spawner  could not be found in '/Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C'
+[2022.04.26-05.37.01:920][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Default value '' for  Newest Road  is invalid: 'PinSubCategoryObject on pin 'NewestRoad' is NULL and PinSubCategory is 'None' not 'self''
+[2022.04.26-05.37.01:921][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Failed to find class for pin  Newest Road
+[2022.04.26-05.37.01:921][333]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] The property associated with  Spawn Point  could not be found in '/Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C'
+[2022.04.26-05.37.02:067][333]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.04.26-05.37.03:051][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.37.03:082][339]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.37.03:084][339]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawnerC76A327A485FB8C87CD3A7BB6A0B18E9.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.37.03:115][339]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.37.03:115][339]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.37.09:556][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.37.09:583][382]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.37.09:586][382]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawnerFDCE60504BF319C9FB5439A78EB6BB8C.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.37.09:614][382]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.37.09:614][382]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.37.16:541][447]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.37.16:548][447]LogBlueprint: Warning: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Could not find a variable named "SpawnPoint" in 'BP_RoadSpawner'.
+Make sure 'BP_RoadSpawner' has been compiled for  Get SpawnPoint
+[2022.04.26-05.37.16:551][447]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Invalid pin connection from  Input Object  and  Newest Road : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2022.04.26-05.37.16:554][447]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Newest Road  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.37.16:556][447]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  Newest Road : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.37.16:558][447]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Failed to find class for pin  Newest Road
+[2022.04.26-05.37.16:559][447]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] The property associated with  Spawn Point  could not be found in '/Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C'
+[2022.04.26-05.37.16:696][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.04.26-05.37.17:614][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.37.17:642][453]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.37.17:644][453]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawner3002683E4EBC62796AC055A718E8234F.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.37.17:676][453]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.37.17:676][453]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.40.34:981][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Road" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset" SILENT=true
+[2022.04.26-05.40.34:992][902]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Road
+[2022.04.26-05.40.34:994][902]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadA72CEBDF4C358F0BB37C80960E590F88.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset'
+[2022.04.26-05.40.35:023][902]AssetCheck: New page: Asset Save: BP_Road
+[2022.04.26-05.40.35:024][902]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.40.36:070][911]BlueprintLog: New page: Compile BP_Road
+[2022.04.26-05.40.36:321][911]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2022.04.26-05.40.37:164][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Road" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset" SILENT=true
+[2022.04.26-05.40.37:177][915]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Road
+[2022.04.26-05.40.37:178][915]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadE53B48074F18DBAAFADDE19074E01229.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset'
+[2022.04.26-05.40.37:199][915]AssetCheck: New page: Asset Save: BP_Road
+[2022.04.26-05.40.37:199][915]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.41.53:787][621]BlueprintLog: New page: Compile BP_Road
+[2022.04.26-05.41.54:017][621]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2022.04.26-05.42.41:107][516]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.42.41:115][516]LogBlueprint: Warning: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Could not find a variable named "SpawnPoint" in 'BP_RoadSpawner'.
+Make sure 'BP_RoadSpawner' has been compiled for  Get SpawnPoint
+[2022.04.26-05.42.41:117][516]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Invalid pin connection from  Input Object  and  Newest Road : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2022.04.26-05.42.41:120][516]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Newest Road  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.42.41:122][516]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  Newest Road : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.42.41:124][516]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Failed to find class for pin  Newest Road
+[2022.04.26-05.42.41:125][516]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] The property associated with  Spawn Point  could not be found in '/Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C'
+[2022.04.26-05.42.41:273][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2022.04.26-05.43.21:171][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Road" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset" SILENT=true
+[2022.04.26-05.43.21:183][548]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Road
+[2022.04.26-05.43.21:185][548]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadC680E201493B76AE1D8C4A955A9866DB.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset'
+[2022.04.26-05.43.21:214][548]AssetCheck: New page: Asset Save: BP_Road
+[2022.04.26-05.43.21:214][548]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.44.10:340][355]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.44.10:347][355]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Invalid pin connection from  Input Object  and  Newest Road : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2022.04.26-05.44.10:349][355]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Newest Road  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.44.10:351][355]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  Newest Road : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.44.10:352][355]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.04.26-05.44.10:477][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.04.26-05.44.23:463][445]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.44.23:475][445]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Invalid pin connection from  Input Object  and  Newest Road : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2022.04.26-05.44.23:478][445]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Newest Road  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.44.23:481][445]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  Newest Road : Object Reference is not compatible with Object Reference.
+[2022.04.26-05.44.23:625][445]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2022.04.26-05.44.25:796][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.44.25:824][459]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.44.25:827][459]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawnerD46ABBD04A9235D063D6B9AC3C2EE559.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.44.25:858][459]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.44.25:859][459]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.44.32:961][511]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.44.33:124][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.04.26-05.44.34:649][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.44.34:672][522]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.44.34:674][522]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawnerD04466CA4A7073C8CF671F80F733627B.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.44.34:705][522]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.44.34:705][522]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.45.01:841][403]LogSlate: Window 'Delete Function' being destroyed
+[2022.04.26-05.45.53:712][735]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.45.53:716][735]LogBlueprint: Error: [AssetLog] C:\Users\sys98\Desktop\CPSC 386\Project\CrossyRoad\Content\BluePrints\BP_RoadSpawner.uasset: [Compiler] Could not find a function named "SpawnInitial Roads" in 'BP_RoadSpawner_C'.
+Make sure 'BP_RoadSpawner_C' has been compiled for  Spawn Initial Roads
+[2022.04.26-05.45.53:888][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.04.26-05.45.55:070][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.45.55:089][743]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.45.55:092][743]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawnerE5E7ACD24E28B9B8F2C76DB844311B3F.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.45.55:123][743]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.45.55:123][743]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.46.07:664][832]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.46.07:829][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.04.26-05.46.08:915][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.46.08:933][839]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.46.08:934][839]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawner7B0ED73D45C2C02831532B9FD46EAD68.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.46.08:967][839]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.46.08:967][839]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.47.06:979][858]LogSlate: Window 'Delete Variable' being destroyed
+[2022.04.26-05.48.40:182][975]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.48.40:348][975]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2022.04.26-05.48.41:330][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.48.41:351][981]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.48.41:353][981]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawnerACE0B6774D04B54AC149EAA15A74E0B1.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.48.41:385][981]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.48.41:385][981]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.49.46:895][395]LogSlate: Took 0.014361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.26-05.49.56:813][675]BlueprintLog: New page: Compile BP_Road
+[2022.04.26-05.49.57:012][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.04.26-05.49.57:727][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Road" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset" SILENT=true
+[2022.04.26-05.49.57:739][678]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Road
+[2022.04.26-05.49.57:741][678]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_Road59813F7A48653BD58150759F259A6164.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset'
+[2022.04.26-05.49.57:766][678]AssetCheck: New page: Asset Save: BP_Road
+[2022.04.26-05.49.57:766][678]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.51.09:214][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.51.09:240][950]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.51.09:242][950]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawnerA51C030542ECD0F7824E8E92BFC564C6.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.51.09:275][950]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.51.09:275][950]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.51.25:792][ 65]BlueprintLog: New page: Compile BP_RoadSpawner
+[2022.04.26-05.51.25:943][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.04.26-05.51.27:375][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_RoadSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset" SILENT=true
+[2022.04.26-05.51.27:398][ 74]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_RoadSpawner
+[2022.04.26-05.51.27:400][ 74]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadSpawner58FF3E1C4B9319FE6510D79EFB91752A.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_RoadSpawner.uasset'
+[2022.04.26-05.51.27:428][ 74]AssetCheck: New page: Asset Save: BP_RoadSpawner
+[2022.04.26-05.51.27:428][ 74]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.04.26-05.53.09:334][490]BlueprintLog: New page: Compile BP_Road
+[2022.04.26-05.53.09:569][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.04.26-05.53.18:254][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Road" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset" SILENT=true
+[2022.04.26-05.53.18:274][548]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Road
+[2022.04.26-05.53.18:276][548]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Saved/BP_RoadC0FF650D43DCFF38F0AFA1ADD2261224.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/Project/CrossyRoad/Content/BluePrints/BP_Road.uasset'
+[2022.04.26-05.53.18:304][548]AssetCheck: New page: Asset Save: BP_Road
+[2022.04.26-05.53.18:304][548]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.04.26-05.53.21:540][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.26-05.53.21:565][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-05.53.21:573][572]PIE: New page: PIE session: CrossyRoad (Apr 25, 2022, 3:53:21 PM)
+[2022.04.26-05.53.21:586][572]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.04.26-05.53.21:586][572]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.26-05.53.21:586][572]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.04.26-05.53.21:597][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011182s)
+[2022.04.26-05.53.21:597][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.011353s)
+[2022.04.26-05.53.21:598][572]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.26-05.53.21:598][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.26-05.53.21:599][572]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.04.26-05.53.21:600][572]LogPlayLevel: PIE: World Init took: (0.001961s)
+[2022.04.26-05.53.21:704][572]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.04.26-05.53.21:711][572]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.26-05.53.21:711][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-05.53.21:711][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-05.53.21:711][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-05.53.21:711][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-05.53.21:711][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-05.53.21:711][572]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.26-05.53.21:711][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-05.53.21:711][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-05.53.21:712][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-05.53.21:712][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-05.53.21:712][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-05.53.21:716][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.26-05.53.22:044][572]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.04.26-05.53.22:044][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-05.53.22:044][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-05.53.22:044][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-05.53.22:048][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.04.26-05.53.22:048][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.04.26-05.53.22:052][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.04.26-05.53.22:052][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.04.26-05.53.22:052][572]LogInit: FAudioDevice initialized.
+[2022.04.26-05.53.22:052][572]LogAudio: Display: Audio Device (ID: 2) registered with world 'CrossyRoad'.
+[2022.04.26-05.53.22:072][572]LogLoad: Game class is 'GM_player_C'
+[2022.04.26-05.53.22:075][572]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 60) at 2022.04.25-22.53.22
+[2022.04.26-05.53.22:075][572]LogWorld: Bringing up level for play took: 0.002796
+[2022.04.26-05.53.22:079][572]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.04.26-05.53.22:134][572]PIE: Server logged in
+[2022.04.26-05.53.22:134][572]PIE: Play in editor total start time 0.568 seconds.
+[2022.04.26-05.53.26:402][574]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2022.04.26-05.53.26:402][574]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2022.04.26-05.53.26:402][574]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - Begin: Frame 22572 - Scene - LumenSceneUpdate: 22 card captures 0.240M texels - CopyCardsToSurfaceCache - CopyToSurfaceCache Albedo
+[2022.04.26-05.53.26:412][574]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2022.04.26-05.53.26:412][574]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2022.04.26-05.53.26:425][574]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2022.04.26-05.53.26:436][574]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2022.04.26-05.53.26:436][574]LogD3D12RHI: Error: DRED: No PageFault data.
+[2022.04.26-05.53.26:436][574]LogD3D12RHI: Error: Memory Info from frame ID 27103:
+[2022.04.26-05.53.26:436][574]LogD3D12RHI: Error: 	Budget:	7447.56 MB
+[2022.04.26-05.53.26:436][574]LogD3D12RHI: Error: 	Used:	3381.52 MB
+[2022.04.26-05.53.28:947][574]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Util.cpp] [Line: 859] 
+pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+
+
+

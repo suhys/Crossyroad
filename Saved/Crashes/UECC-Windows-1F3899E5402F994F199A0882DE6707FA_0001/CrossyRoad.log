@@ -1,0 +1,1543 @@
+﻿Log file open, 05/02/22 16:18:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11000)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoad
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\sys98\Desktop\CPSC 386\CrossyRoad\CrossyRoad.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a67e2a8240a5bd5262b664838c4e16cb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.710081
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1F3899E5402F994F199A0882DE6707FA
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.02-23.18.14:752][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.02-23.18.14:752][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.02-23.18.14:752][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.02-23.18.14:753][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.02-23.18.14:758][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.02-23.18.14:858][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.02-23.18.14:858][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.02-23.18.14:997][  0]LogD3D12RHI: Found D3D12 adapter 0: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.05.02-23.18.14:998][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8109MB of shared system memory, 1 output[s]
+[2022.05.02-23.18.15:023][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.02-23.18.15:023][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8109MB of shared system memory, 0 output[s]
+[2022.05.02-23.18.15:023][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.02-23.18.15:023][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.02-23.18.15:024][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.02-23.18.15:024][  0]LogHAL: Display: Platform has ~ 16 GB [17005834240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.02-23.18.15:024][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.02-23.18.15:024][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.02-23.18.15:024][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.02-23.18.15:026][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.02-23.18.15:026][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.02-23.18.15:026][  0]LogInit: Computer: DESKTOP-3S560BP
+[2022.05.02-23.18.15:026][  0]LogInit: User: sys98
+[2022.05.02-23.18.15:026][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.02-23.18.15:026][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.02-23.18.15:026][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.05.02-23.18.15:026][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.02-23.18.15:026][  0]LogMemory: Process Physical Memory: 259.11 MB used, 260.98 MB peak
+[2022.05.02-23.18.15:026][  0]LogMemory: Process Virtual Memory: 202.81 MB used, 202.81 MB peak
+[2022.05.02-23.18.15:026][  0]LogMemory: Physical Memory: 6641.93 MB used,  9576.10 MB free, 16218.03 MB total
+[2022.05.02-23.18.15:026][  0]LogMemory: Virtual Memory: 8452.08 MB used,  14933.95 MB free, 23386.03 MB total
+[2022.05.02-23.18.15:026][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.02-23.18.15:038][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.02-23.18.15:166][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.02-23.18.15:167][  0]LogInit: Using OS detected language (en-US).
+[2022.05.02-23.18.15:167][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.02-23.18.15:187][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.02-23.18.15:428][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.02-23.18.15:477][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.02-23.18.15:477][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.02-23.18.15:477][  0]LogWindowsTextInputMethodSystem:   - Korean (Korea) - Microsoft IME (TSF IME).
+[2022.05.02-23.18.15:477][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.05.02-23.18.15:477][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.05.02-23.18.15:562][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.02-23.18.15:562][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.02-23.18.18:170][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.02-23.18.18:170][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.02-23.18.18:215][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.02-23.18.18:216][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.02-23.18.18:216][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.02-23.18.18:216][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.02-23.18.18:216][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.02-23.18.18:216][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.02-23.18.18:216][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.05.02-23.18.18:216][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.05.02-23.18.18:230][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.02-23.18.18:234][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.02-23.18.18:238][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.02-23.18.18:248][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.02-23.18.18:248][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.02-23.18.18:505][  0]LogD3D12RHI:     GPU DeviceId: 0x9b41 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.02-23.18.18:505][  0]LogWindows: EnumDisplayDevices:
+[2022.05.02-23.18.18:505][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.05.02-23.18.18:506][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.05.02-23.18.18:507][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.05.02-23.18.18:507][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.05.02-23.18.18:507][  0]LogD3D12RHI:     Adapter Name: Intel(R) UHD Graphics
+[2022.05.02-23.18.18:507][  0]LogD3D12RHI:   Driver Version: 30.0.101.1340 (internal:30.0.101.1340, unified:101.1340)
+[2022.05.02-23.18.18:507][  0]LogD3D12RHI:      Driver Date: 2-3-2022
+[2022.05.02-23.18.18:508][  0]LogRHI: Texture pool is 4691 MB (70% of 6702 MB)
+[2022.05.02-23.18.18:508][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.02-23.18.18:508][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2022.05.02-23.18.18:586][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/CrossyRoad.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Intermediate/TurnkeyReport_0.log" -log="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Intermediate/TurnkeyLog_0.log" -project="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/CrossyRoad.uproject"  -platform=all'
+[2022.05.02-23.18.18:586][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/CrossyRoad.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Intermediate/TurnkeyReport_0.log" -log="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Intermediate/TurnkeyLog_0.log" -project="C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/CrossyRoad.uproject"  -platform=all" ]
+[2022.05.02-23.18.18:750][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.02-23.18.18:853][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.02-23.18.18:853][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.02-23.18.18:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.02-23.18.18:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.02-23.18.18:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.02-23.18.18:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.02-23.18.18:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.02-23.18.19:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.02-23.18.19:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.02-23.18.19:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.02-23.18.19:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.02-23.18.19:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.02-23.18.19:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.02-23.18.19:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.02-23.18.19:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.02-23.18.19:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.02-23.18.19:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.02-23.18.19:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.02-23.18.19:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.02-23.18.19:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.02-23.18.19:107][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.02-23.18.19:195][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.02-23.18.19:217][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.02-23.18.19:217][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.02-23.18.19:217][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.02-23.18.19:217][  0]LogTargetPlatformManager:   PCM
+[2022.05.02-23.18.19:238][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.02-23.18.19:238][  0]LogTargetPlatformManager:   BINKA
+[2022.05.02-23.18.19:238][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.02-23.18.19:238][  0]LogTargetPlatformManager:   OGG
+[2022.05.02-23.18.19:238][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.02-23.18.19:238][  0]LogTargetPlatformManager:   OPUS
+[2022.05.02-23.18.19:508][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.02-23.18.19:567][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.02-23.18.19:605][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.02-23.18.19:606][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.02-23.18.19:606][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.02-23.18.19:606][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.02-23.18.19:606][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.02-23.18.19:606][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.02-23.18.19:606][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.02-23.18.19:606][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.02-23.18.19:609][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.02-23.18.19:616][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.02-23.18.19:616][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.02-23.18.19:623][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.02-23.18.19:628][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.02-23.18.19:629][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.02-23.18.19:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.02-23.18.19:630][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.02-23.18.19:661][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.05.02-23.18.19:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.02-23.18.19:662][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.02-23.18.19:689][  0]LogDerivedDataCache: Speed tests for C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.05.02-23.18.19:690][  0]LogDerivedDataCache: Display: Performance to C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=88.50MBs, RandomWriteSpeed=73.06MBs. Assigned SpeedClass 'Local'
+[2022.05.02-23.18.19:691][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.02-23.18.19:691][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.02-23.18.19:691][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.02-23.18.19:699][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.02-23.18.19:699][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.02-23.18.19:705][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Intermediate/Shaders/WorkingDirectory/20616/).
+[2022.05.02-23.18.19:705][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sys98/AppData/Local/Temp/UnrealShaderWorkingDir/517F2C4E49B0DFF2C3EEE8AA4831826A/'.
+[2022.05.02-23.18.19:705][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.02-23.18.19:705][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.05.02-23.18.24:553][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.02-23.18.24:553][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.02-23.18.24:569][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.02-23.18.24:663][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2022.05.02-23.18.24:671][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.02-23.18.24:993][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.02-23.18.24:999][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.02-23.18.25:406][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.02-23.18.25:406][  0]LogDeviceProfileManager: Active device profile: [00000920ECCA47C0][00000920DF6C0000 50] WindowsEditor
+[2022.05.02-23.18.25:406][  0]LogDeviceProfileManager: Profiles: [00000920ECCA4980][00000920DF62A000 50] Windows, [00000920ECCA47C0][00000920DF6C0000 50] WindowsEditor, [00000920ECCA0E00][00000920DF695000 50] WindowsServer, [00000920ECCA40C0][00000920CEA7C800 50] WindowsClient, [00000920ECCA0540][00000920ECD00000 50] IOS, [00000920ECCA39C0][00000920ECD05000 50] iPadAir2, [00000920ECCA5940][00000920ECD0A000 50] IPadPro, [00000920ECCA5CC0][00000920ECD07800 50] iPadAir3, [00000920ECCA01C0][00000920ECD0C800 50] iPadAir4, [00000920ECCA5400][00000920DF692800 50] iPadMini4, [00000920ECCA4440][00000920ECCD0000 50] iPadMini5, [00000920ECCA4EC0][00000920ECCD5000 50] iPadMini6, [00000920ECCA8C00][00000920ECCDC800 50] iPhone6S, [00000920ECCA8F80][00000920ECCDA000 50] iPhone7, [00000920ECCA9300][00000920ECCD7800 50] iPodTouch7, [00000920ECCA5E80][00000920ECD02800 50] iPhone6SPlus, [00000920ECCA6C80][00000920ECCE0000 50] iPhone7Plus, [00000920ECCA3480][00000920ECCE5000 50] iPhoneSE, [00000920ECCA5B00][00000920ECCE7800 50] iPhone8, [00000920ECCA6200][00000920ECCEA000 50] iPhone8Plus, [00000920ECCA6E40][00000920ECCEC800 50] iPhoneX, [00000920ECCA8500][00000920ECCD2800 50] iPhoneXS, [00000920ECCA1880][00000920ECD20000 50] iPhoneXSMax, [00000920ECCA2BC0][00000920ECD25000 50] iPhoneXR, [00000920ECCA7FC0][00000920ECD27800 50] iPhone11, [00000920ECCA0000][00000920ECD2A000 50] iPhone11Pro, [00000920ECCA2140][00000920ECD2C800 50] iPhone11ProMax, [00000920ECCA1C00][00000920ECCE2800 50] iPhoneSE2, [00000920ECCA78C0][00000920ECD30000 50] iPhone12Mini, [00000920ECCA7E00][00000920ECD35000 50] iPhone12, [00000920ECCA1500][00000920ECD37800 50] iPhone12Pro, [00000920ECCA6580][00000920ECD3A000 50] iPhone12ProMax, [00000920ECCA5080][00000920ECD3C800 50] iPhone13Mini, [00000920ECCA5780][00000920ECD22800 50] iPhone13, [00000920ECCA2A00][00000920ECD40000 50] iPhone13Pro, [00000920ECCA3100][00000920ECD45000 50] iPhone13ProMax, [00000920ECCA1DC0][00000920ECD47800 50] iPadPro105, [00000920ECCA8880][00000920ECD4A000 50] iPadPro129, [00000920ECCA1F80][00000920ECD4C800 50] iPadPro97, [00000920ECCA7700][00000920ECD32800 50] iPadPro2_129, [00000920ECCA9BC0][00000920ECD60000 50] iPad5, [00000920ECCA8DC0][00000920ECD65000 50] iPad6, [00000920ECCA3D40][00000920ECD67800 50] iPad7, [00000920ECCA6740][00000920ECD6A000 50] iPad8, [00000920ECCA3800][00000920ECD6C800 50] iPad9, [00000920ECCA7000][00000920ECD42800 50] iPadPro11, [00000920ECCA3F00][00000920ECD70000 50] iPadPro2_11, [00000920ECCA94C0][00000920ECD75000 50] iPadPro3_11, [00000920ECCA8340][00000920ECD77800 50] iPadPro3_129, [00000920ECCA1340][00000920ECD7A000 50] iPadPro4_129, [00000920ECCA86C0][00000920ECD7C800 50] iPadPro5_129, [00000920ECCA9840][00000920ECD62800 50] AppleTV, [00000920ECCA8180][00000920ECD80000 50] AppleTV4K, [00000920ECCA32C0][00000920ECD85000 50] TVOS, [00000920ECCAA9C0][00000920ECD8A000 50] Mac, [00000920ECCAA800][00000920ECD87800 50] MacEditor, [00000920ECCA3640][00000920ECD8C800 50] MacClient, [00000920ECCAA2C0][00000920ECD72800 50] MacServer, [00000920ECCAB0C0][00000920ECD92800 50] Linux, [00000920ECCAB440][00000920ECD90000 50] LinuxEditor, [00000920ECCA4D00][00000920ECD97800 50] LinuxArm64Editor, [00000920ECCAAF00][00000920ECD9A000 50] LinuxArm64, [00000920ECCA3B80][00000920ECD9C800 50] LinuxClient, [00000920ECCAAD40][00000920ECD82800 50] LinuxArm64Client, [00000920ECCA6040][00000920ECDA0000 50] LinuxServer, [00000920ECCA0C40][00000920ECDA5000 50] LinuxArm64Server, [00000920ECCA7A80][00000920ECDA7800 50] Android, [00000920ECCA63C0][00000920ECDAA000 50] Android_Preview_OpenGL, [00000920ECCA4600][00000920ECDAC800 50] Android_Preview_Vulkan, [00000920ECCAAB80][00000920ECD95000 50] Android_Low, [00000920ECCAA100][00000920ECDB0000 50] Android_Mid, [00000920ECCA9D80][00000920ECDB5000 50] Android_High, [00000920ECCA5240][00000920ECDB7800 50] Android_Default, [00000920ECCA16C0][00000920ECDBA000 50] Android_Adreno4xx, [00000920ECCA55C0][00000920ECDBC800 50] Android_Adreno5xx_Low, [00000920ECCA4280][00000920ECDA2800 50] Android_Adreno5xx, [00000920ECCAA480][00000920ECDC0000 50] Android_Adreno6xx, [00000920ECCA6900][00000920ECDC5000 50] Android_Adreno6xx_Vulkan, [00000920ECCAB280][00000920ECDC7800 50] Android_Adreno7xx, [00000920ECCA2D80][00000920ECDCA000 50] Android_Adreno7xx_Vulkan, [00000920ECCA0380][00000920ECDCC800 50] Android_Mali_T6xx, [00000920ECCAB7C0][00000920ECDB2800 50] Android_Mali_T7xx, [00000920ECCA8A40][00000920ECDD0000 50] Android_Mali_T8xx, [00000920ECCA2300][00000920ECDD5000 50] Android_Mali_G71, [00000920ECCA0A80][00000920ECDD7800 50] Android_Mali_G72, [00000920ECCAB980][00000920ECDDA000 50] Android_Mali_G72_Vulkan, [00000920ECCA0700][00000920ECDDC800 50] Android_Mali_G76, [00000920ECCA1A40][00000920ECDC2800 50] Android_Mali_G76_Vulkan, [00000920ECCACB00][00000920ECDE0000 50] Android_Mali_G77, [00000920ECCA08C0][00000920ECDE5000 50] Android_Mali_G77_Vulkan, [00000920ECCAB600][00000920ECDE7800 50] Android_Mali_G78, [00000920ECCAA640][00000920ECDEA000 50] Android_Mali_G78_Vulkan, [00000920ECCA2840][00000920ECDEC800 50] Android_Mali_G710, [00000920ECCA24C0][00000920ECDD2800 50] Android_Mali_G710_Vulkan, [00000920ECCA9F40][00000920ECDF0000 50] Android_Xclipse_920, [00000920ECCA9680][00000920ECDF5000 50] Android_Xclipse_920_Vulkan, [00000920ECCA71C0][00000920ECDF7800 50] Android_Vulkan_SM5, [00000920ECCAC940][00000920ECDFA000 50] Android_PowerVR_G6xxx, [00000920ECCA2F40][00000920ECDFC800 50] Android_PowerVR_GT7xxx, [00000920ECCA9A00][00000920ECDE2800 50] Android_PowerVR_GE8xxx, [00000920ECCA7540][00000920ECE00000 50] Android_PowerVR_GM9xxx, [00000920ECCAD040][00000920ECE05000 50] Android_PowerVR_GM9xxx_Vulkan, [00000920ECCAC240][00000920ECE07800 50] Android_TegraK1, [00000920ECCADAC0][00000920ECE0A000 50] Android_Unknown_Vulkan, [00000920ECCA1180][00000920ECE0C800 50] Oculus_Quest, [00000920ECCAEA80][00000920ECDF2800 50] Oculus_Quest2, [00000920ECCAD580][00000920ECE10000 50] HoloLens, 
+[2022.05.02-23.18.25:406][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.02-23.18.25:412][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.05.02-23.18.25:412][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.02-23.18.25:412][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.02-23.18.25:412][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.02-23.18.25:412][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.02-23.18.25:533][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.02-23.18.26:110][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.02-23.18.26:110][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.02-23.18.26:110][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.02-23.18.26:110][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.02-23.18.26:110][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.02-23.18.26:224][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2078340869)
+[2022.05.02-23.18.26:862][  0]LogSlate: Border
+[2022.05.02-23.18.26:862][  0]LogSlate: BreadcrumbButton
+[2022.05.02-23.18.26:862][  0]LogSlate: Default
+[2022.05.02-23.18.26:862][  0]LogSlate: Icons.Save
+[2022.05.02-23.18.26:862][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.02-23.18.26:862][  0]LogSlate: ListView
+[2022.05.02-23.18.26:862][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.02-23.18.26:862][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.02-23.18.26:862][  0]LogSlate: TableView.DarkRow
+[2022.05.02-23.18.26:862][  0]LogSlate: TableView.Row
+[2022.05.02-23.18.26:862][  0]LogSlate: TreeView
+[2022.05.02-23.18.27:518][  0]SourceControl: Source control is disabled
+[2022.05.02-23.18.27:620][  0]SourceControl: Source control is disabled
+[2022.05.02-23.18.27:620][  0]SourceControl: Source control is disabled
+[2022.05.02-23.18.27:876][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.02-23.18.27:876][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.05.02-23.18.27:876][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.02-23.18.30:183][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 425404A74A4CF301192E9EBDC077A114 | Instance: 87624C294FF740FAF1FC66BA1AC3604D (DESKTOP-3S560BP-20616).
+[2022.05.02-23.18.30:496][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.02-23.18.30:528][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.02-23.18.30:602][  0]LogPython: Using Python 3.9.7
+[2022.05.02-23.18.32:595][  0]SourceControl: Source control is disabled
+[2022.05.02-23.18.32:622][  0]SourceControl: Source control is disabled
+[2022.05.02-23.18.32:711][  0]SourceControl: Source control is disabled
+[2022.05.02-23.18.32:776][  0]LogUProjectInfo: Found projects:
+[2022.05.02-23.18.35:045][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.02-23.18.35:167][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.02-23.18.35:262][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.02-23.18.35:262][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.02-23.18.35:817][  0]LogCollectionManager: Loaded 0 collections in 0.002629 seconds
+[2022.05.02-23.18.36:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/Collections/' took 0.00s
+[2022.05.02-23.18.36:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/Developers/sys98/Collections/' took 0.00s
+[2022.05.02-23.18.36:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/Collections/' took 0.00s
+[2022.05.02-23.18.36:992][  0]LogEngine: Initializing Engine...
+[2022.05.02-23.18.37:021][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.02-23.18.37:026][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.05.02-23.18.37:809][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.02-23.18.37:811][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.18.37:863][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.18.37:950][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.02-23.18.37:956][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.02-23.18.38:037][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.02-23.18.38:042][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.02-23.18.38:042][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.02-23.18.38:044][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.02-23.18.38:044][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.02-23.18.38:045][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.18.38:045][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.18.38:045][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.18.38:045][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.18.38:045][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.18.38:045][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.18.38:045][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.18.38:046][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.18.38:046][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.18.38:046][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.18.38:046][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.18.38:093][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.18.39:077][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.18.39:078][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.18.39:101][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.18.39:101][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.18.39:103][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.02-23.18.39:103][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.02-23.18.39:104][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.02-23.18.39:104][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.02-23.18.39:104][  0]LogInit: FAudioDevice initialized.
+[2022.05.02-23.18.39:105][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.02-23.18.39:105][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.02-23.18.39:105][  0]LogInit: Texture streaming: Enabled
+[2022.05.02-23.18.39:216][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.05.02-23.18.39:249][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.02-23.18.39:308][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.02-23.18.39:345][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.02-23.18.39:345][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.02-23.18.42:373][  0]LogLiveCoding: Display: First instance in process group "UE_CrossyRoad_0x99fcd9d3", spawning console
+[2022.05.02-23.18.42:373][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.02-23.18.42:373][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.02-23.18.42:419][  0]LogInit: Transaction tracking system initialized
+[2022.05.02-23.18.42:616][  0]BlueprintLog: New page: Editor Load
+[2022.05.02-23.18.43:265][  0]LocalizationService: Localization service is disabled
+[2022.05.02-23.18.43:392][  0]TimingProfiler: Initialize
+[2022.05.02-23.18.43:393][  0]TimingProfiler: OnSessionChanged
+[2022.05.02-23.18.43:393][  0]LoadingProfiler: Initialize
+[2022.05.02-23.18.43:393][  0]LoadingProfiler: OnSessionChanged
+[2022.05.02-23.18.43:394][  0]NetworkingProfiler: Initialize
+[2022.05.02-23.18.43:395][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.02-23.18.43:395][  0]MemoryProfiler: Initialize
+[2022.05.02-23.18.43:395][  0]MemoryProfiler: OnSessionChanged
+[2022.05.02-23.18.45:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/' took 0.00s
+[2022.05.02-23.18.45:771][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.02-23.18.46:136][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.02-23.18.46:142][  0]SourceControl: Source control is disabled
+[2022.05.02-23.18.46:143][  0]LogUnrealEdMisc: Loading editor; pre map load, took 36.069
+[2022.05.02-23.18.46:144][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/CrossyRoad.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.02-23.18.46:144][  0]LightingResults: New page: Lighting Build
+[2022.05.02-23.18.46:156][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.18.46:158][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.18.46:158][  0]MapCheck: New page: Map Check
+[2022.05.02-23.18.46:158][  0]LightingResults: New page: Lighting Build
+[2022.05.02-23.18.46:175][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-23.18.46:185][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.02-23.18.46:367][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'CrossyRoad'.
+[2022.05.02-23.18.46:368][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.18.46:368][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.18.46:369][  0]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.18.46:405][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.02-23.18.46:418][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.02-23.18.46:418][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.02-23.18.46:419][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.325ms to complete.
+[2022.05.02-23.18.46:419][  0]LogFileHelpers: Loading map 'CrossyRoad' took 0.276
+[2022.05.02-23.18.46:454][  0]LogUnrealEdMisc: Total Editor Startup Time, took 36.380
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: ================================================
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.02-23.18.46:454][  0]LogShaderCompilers: Display: ================================================
+[2022.05.02-23.18.46:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.18.46:879][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:879][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:888][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:889][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:896][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:896][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:904][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:904][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:915][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:915][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:925][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:925][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:932][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:932][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:939][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:940][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:946][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:946][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.46:953][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.02-23.18.46:953][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.02-23.18.47:410][  0]LogStall: Startup...
+[2022.05.02-23.18.47:412][  0]LogStall: Startup complete.
+[2022.05.02-23.18.47:454][  0]LogLoad: (Engine Initialization) Total time: 37.38 seconds
+[2022.05.02-23.18.47:454][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.02-23.18.47:499][  0]LogAssetRegistry: Asset discovery search completed in 22.8387 seconds
+[2022.05.02-23.18.47:535][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.02-23.18.47:567][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.02-23.18.47:607][  0]LogSlate: Took 0.004664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.02-23.18.47:619][  0]LogSlate: Took 0.007693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.02-23.18.49:448][  3]LogSlate: Took 0.009145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.02-23.18.57:047][ 93]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.18.57:065][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.18.57:068][ 93]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:18:57 AM)
+[2022.05.02-23.18.57:075][ 93]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.02-23.18.57:075][ 93]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.02-23.18.57:075][ 93]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.18.57:081][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005286s)
+[2022.05.02-23.18.57:081][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.005684s)
+[2022.05.02-23.18.57:081][ 93]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.18.57:081][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.18.57:082][ 93]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.18.57:083][ 93]LogPlayLevel: PIE: World Init took: (0.001892s)
+[2022.05.02-23.18.57:099][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.05.02-23.18.57:100][ 93]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.02-23.18.57:101][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.18.57:101][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.18.57:101][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.18.57:101][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.18.57:101][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.18.57:101][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.18.57:101][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.18.57:101][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.18.57:102][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.18.57:102][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.18.57:102][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.18.57:105][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.18.57:337][ 93]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.18.57:337][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.18.57:338][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.18.57:338][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.18.57:339][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.02-23.18.57:339][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.05.02-23.18.57:341][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.02-23.18.57:341][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.02-23.18.57:341][ 93]LogInit: FAudioDevice initialized.
+[2022.05.02-23.18.57:341][ 93]LogAudio: Display: Audio Device (ID: 2) registered with world 'CrossyRoad'.
+[2022.05.02-23.18.57:364][ 93]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.18.57:365][ 93]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.18.57
+[2022.05.02-23.18.57:365][ 93]LogWorld: Bringing up level for play took: 0.000820
+[2022.05.02-23.18.57:368][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.05.02-23.18.57:396][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.18.57:397][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.18.57:399][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.18.57:399][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.18.57:399][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.18.57:399][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.18.57:400][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.18.57:400][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.18.57:400][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.18.57:401][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.18.57:401][ 93]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.18.57:402][ 93]PIE: Server logged in
+[2022.05.02-23.18.57:403][ 93]PIE: Play in editor total start time 0.339 seconds.
+[2022.05.02-23.18.59:885][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.18.59:885][ 98]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.18.59:885][ 98]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.18.59:886][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.19.00:097][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.19.00:099][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.19.00:112][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-23.19.00:112][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.02-23.19.00:114][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.02-23.19.00:129][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.19.00:134][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.05.02-23.19.00:171][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.05.02-23.19.01:328][116]LogSlate: Took 0.008403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.02-23.19.01:343][116]LogSlate: Took 0.006983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.02-23.19.06:599][168]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner
+[2022.05.02-23.19.06:600][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.19.10:865][168]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.05.02-23.19.10:865][168]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049579s
+[2022.05.02-23.19.11:048][168]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000667s (0.729085s overbudget)
+[2022.05.02-23.19.11:084][168]LogSlate: Took 0.005559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.02-23.19.13:259][186]LogSlate: Took 0.009542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.02-23.19.27:628][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner
+[2022.05.02-23.19.27:629][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.19.52:545][771]LogSlate: Window 'BP_RoadSpawner' being destroyed
+[2022.05.02-23.19.52:604][771]LogSlate: Window 'BP_RoadSpawner' being destroyed
+[2022.05.02-23.19.52:628][771]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.19.52:628][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.19.55:601][811]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.05.02-23.19.55:602][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.20.01:761][911]LogSlate: Window 'Details' being destroyed
+[2022.05.02-23.20.21:618][239]LogDerivedDataCache: C:/Users/sys98/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.900 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.02-23.20.27:257][288]LogSlate: Window 'Details' being destroyed
+[2022.05.02-23.20.27:345][288]LogSlate: Window 'Details' being destroyed
+[2022.05.02-23.20.35:088][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Truck.BP_Truck
+[2022.05.02-23.20.35:089][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.20.37:084][439]LogEditorViewport: Clicking Background
+[2022.05.02-23.21.06:996][814]BlueprintLog: New page: Compile BP_TruckSpawner
+[2022.05.02-23.21.07:157][814]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.05.02-23.21.07:725][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_TruckSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_TruckSpawner.uasset" SILENT=true
+[2022.05.02-23.21.07:739][820]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.013992 seconds
+[2022.05.02-23.21.07:754][820]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_TruckSpawner
+[2022.05.02-23.21.07:756][820]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_TruckSpawner183D400B45F2E2B4CB3520B7C1FF18AF.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_TruckSpawner.uasset'
+[2022.05.02-23.21.07:784][820]AssetCheck: New page: Asset Save: BP_TruckSpawner
+[2022.05.02-23.21.07:784][820]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner
+[2022.05.02-23.21.17:670][937]LogSlate: Window 'BP_Road' being destroyed
+[2022.05.02-23.21.17:684][937]LogSlate: Window 'BP_Road' being destroyed
+[2022.05.02-23.21.17:703][937]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.21.17:703][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.21.19:002][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.21.19:025][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.21.19:026][954]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:21:19 AM)
+[2022.05.02-23.21.19:026][954]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.21.19:036][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009658s)
+[2022.05.02-23.21.19:036][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.009888s)
+[2022.05.02-23.21.19:036][954]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.21.19:036][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.21.19:037][954]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.21.19:038][954]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2022.05.02-23.21.19:141][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.05.02-23.21.19:143][954]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.02-23.21.19:143][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.21.19:144][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.21.19:144][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.21.19:144][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.21.19:144][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.21.19:144][954]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.21.19:144][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.21.19:144][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.21.19:145][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.21.19:145][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.21.19:145][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.21.19:149][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.21.19:512][954]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.21.19:513][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.21.19:513][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.21.19:513][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.21.19:514][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.05.02-23.21.19:514][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.05.02-23.21.19:517][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.05.02-23.21.19:518][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.05.02-23.21.19:518][954]LogInit: FAudioDevice initialized.
+[2022.05.02-23.21.19:518][954]LogAudio: Display: Audio Device (ID: 3) registered with world 'CrossyRoad'.
+[2022.05.02-23.21.19:535][954]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.21.19:536][954]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.21.19
+[2022.05.02-23.21.19:536][954]LogWorld: Bringing up level for play took: 0.000672
+[2022.05.02-23.21.19:539][954]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.05.02-23.21.19:541][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.21.19:541][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.19:542][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.19:542][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.19:543][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.19:543][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.19:544][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.19:544][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.19:545][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.19:545][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.19:546][954]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.19:547][954]PIE: Server logged in
+[2022.05.02-23.21.19:548][954]PIE: Play in editor total start time 0.523 seconds.
+[2022.05.02-23.21.22:867][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.21.22:867][990]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.21.22:867][990]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.21.22:867][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.21.22:904][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.21.22:914][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.21.22:984][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-23.21.22:985][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.02-23.21.22:988][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.02-23.21.23:000][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.21.23:005][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.05.02-23.21.23:045][991]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.05.02-23.21.37:000][227]BlueprintLog: New page: Compile BP_Truck
+[2022.05.02-23.21.37:126][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.05.02-23.21.37:827][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Truck" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset" SILENT=true
+[2022.05.02-23.21.37:841][233]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Truck
+[2022.05.02-23.21.37:843][233]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_TruckD43A801F4413DBCB6F6A8BB0CB695DC7.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset'
+[2022.05.02-23.21.37:865][233]AssetCheck: New page: Asset Save: BP_Truck
+[2022.05.02-23.21.37:865][233]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Truck.BP_Truck
+[2022.05.02-23.21.38:529][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.21.38:559][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.21.38:559][244]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:21:38 AM)
+[2022.05.02-23.21.38:560][244]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.21.38:569][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008038s)
+[2022.05.02-23.21.38:569][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.008241s)
+[2022.05.02-23.21.38:569][244]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.21.38:569][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.21.38:570][244]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.21.38:571][244]LogPlayLevel: PIE: World Init took: (0.002239s)
+[2022.05.02-23.21.38:689][244]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2022.05.02-23.21.38:692][244]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.02-23.21.38:692][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.21.38:692][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.21.38:692][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.21.38:692][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.21.38:692][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.21.38:692][244]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.21.38:692][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.21.38:692][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.21.38:694][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.21.38:694][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.21.38:694][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.21.38:700][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.21.39:002][244]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.21.39:002][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.21.39:002][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.21.39:002][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.21.39:003][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.05.02-23.21.39:003][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.05.02-23.21.39:006][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.05.02-23.21.39:006][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.05.02-23.21.39:006][244]LogInit: FAudioDevice initialized.
+[2022.05.02-23.21.39:006][244]LogAudio: Display: Audio Device (ID: 4) registered with world 'CrossyRoad'.
+[2022.05.02-23.21.39:022][244]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.21.39:023][244]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.21.39
+[2022.05.02-23.21.39:023][244]LogWorld: Bringing up level for play took: 0.000567
+[2022.05.02-23.21.39:026][244]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.05.02-23.21.39:028][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.21.39:028][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.39:028][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.39:028][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.39:029][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.39:029][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.39:029][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.39:029][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.39:030][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.39:030][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.39:031][244]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.39:031][244]PIE: Server logged in
+[2022.05.02-23.21.39:031][244]PIE: Play in editor total start time 0.472 seconds.
+[2022.05.02-23.21.41:118][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.21.41:118][267]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.21.41:119][267]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.21.41:119][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.21.41:144][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.21.41:150][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.21.41:215][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-23.21.41:215][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.02-23.21.41:218][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.02-23.21.41:228][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.21.41:232][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.05.02-23.21.41:290][268]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.05.02-23.21.45:384][321]BlueprintLog: New page: Compile BP_Truck
+[2022.05.02-23.21.45:479][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.02-23.21.46:140][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Truck" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset" SILENT=true
+[2022.05.02-23.21.46:148][327]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Truck
+[2022.05.02-23.21.46:149][327]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_TruckBDB58EBC471F46678B7FC0AB45314EB9.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset'
+[2022.05.02-23.21.46:164][327]AssetCheck: New page: Asset Save: BP_Truck
+[2022.05.02-23.21.46:165][327]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Truck.BP_Truck
+[2022.05.02-23.21.47:018][338]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.21.47:030][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.21.47:030][338]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:21:47 AM)
+[2022.05.02-23.21.47:031][338]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.21.47:034][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003585s)
+[2022.05.02-23.21.47:034][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.003690s)
+[2022.05.02-23.21.47:034][338]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.21.47:034][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.21.47:035][338]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.21.47:035][338]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2022.05.02-23.21.47:089][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.02-23.21.47:091][338]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.02-23.21.47:091][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.21.47:091][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.21.47:091][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.21.47:091][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.21.47:091][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.21.47:091][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.21.47:091][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.21.47:091][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.21.47:092][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.21.47:092][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.21.47:092][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.21.47:095][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.21.47:246][338]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.21.47:247][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.21.47:247][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.21.47:247][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.21.47:247][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.05.02-23.21.47:247][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.05.02-23.21.47:249][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.05.02-23.21.47:249][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.05.02-23.21.47:249][338]LogInit: FAudioDevice initialized.
+[2022.05.02-23.21.47:249][338]LogAudio: Display: Audio Device (ID: 5) registered with world 'CrossyRoad'.
+[2022.05.02-23.21.47:264][338]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.21.47:265][338]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.21.47
+[2022.05.02-23.21.47:265][338]LogWorld: Bringing up level for play took: 0.000493
+[2022.05.02-23.21.47:268][338]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.05.02-23.21.47:269][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.21.47:269][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.47:269][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.47:269][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.47:270][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.47:270][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.47:270][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.47:270][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.47:271][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.47:271][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.47:271][338]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.47:272][338]PIE: Server logged in
+[2022.05.02-23.21.47:272][338]PIE: Play in editor total start time 0.242 seconds.
+[2022.05.02-23.21.51:727][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.21.51:728][391]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.21.51:728][391]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.21.51:728][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.21.51:758][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.21.51:769][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.21.51:833][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.21.51:833][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.02-23.21.51:836][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.02-23.21.51:853][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.02-23.21.51:919][392]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.05.02-23.21.58:507][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Truck" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset" SILENT=true
+[2022.05.02-23.21.58:521][480]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Truck
+[2022.05.02-23.21.58:523][480]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_TruckCDCAAE194857B639085EABA7E514EACA.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset'
+[2022.05.02-23.21.58:546][480]AssetCheck: New page: Asset Save: BP_Truck
+[2022.05.02-23.21.58:546][480]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Truck.BP_Truck
+[2022.05.02-23.21.59:458][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.21.59:477][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.21.59:477][493]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:21:59 AM)
+[2022.05.02-23.21.59:477][493]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.21.59:481][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003881s)
+[2022.05.02-23.21.59:481][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.004008s)
+[2022.05.02-23.21.59:481][493]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.21.59:481][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.21.59:482][493]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.21.59:482][493]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2022.05.02-23.21.59:542][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.05.02-23.21.59:544][493]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.02-23.21.59:544][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.21.59:544][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.21.59:544][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.21.59:544][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.21.59:544][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.21.59:544][493]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.21.59:544][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.21.59:544][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.21.59:545][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.21.59:545][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.21.59:545][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.21.59:547][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.21.59:735][493]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.21.59:735][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.21.59:736][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.21.59:736][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.21.59:736][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.05.02-23.21.59:736][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.05.02-23.21.59:740][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.05.02-23.21.59:740][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.05.02-23.21.59:740][493]LogInit: FAudioDevice initialized.
+[2022.05.02-23.21.59:740][493]LogAudio: Display: Audio Device (ID: 6) registered with world 'CrossyRoad'.
+[2022.05.02-23.21.59:758][493]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.21.59:759][493]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.21.59
+[2022.05.02-23.21.59:759][493]LogWorld: Bringing up level for play took: 0.000733
+[2022.05.02-23.21.59:762][493]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.05.02-23.21.59:764][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.21.59:764][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.59:765][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.59:765][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.59:765][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.59:765][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.59:766][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.59:766][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.59:766][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.59:766][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.21.59:767][493]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.21.59:767][493]PIE: Server logged in
+[2022.05.02-23.21.59:768][493]PIE: Play in editor total start time 0.291 seconds.
+[2022.05.02-23.22.17:238][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.22.17:238][711]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.22.17:238][711]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.22.17:238][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.22.17:273][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.22.17:281][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.22.17:347][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.22.17:348][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.02-23.22.17:351][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.02-23.22.17:368][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.05.02-23.22.17:439][712]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.02-23.22.22:766][783]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.22.22:786][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.22.22:786][783]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:22:22 AM)
+[2022.05.02-23.22.22:786][783]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.22.22:791][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005513s)
+[2022.05.02-23.22.22:792][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.005687s)
+[2022.05.02-23.22.22:792][783]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.22.22:792][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.22.22:793][783]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.22.22:794][783]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2022.05.02-23.22.22:865][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.05.02-23.22.22:866][783]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.02-23.22.22:866][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.22.22:866][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.22.22:866][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.22.22:866][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.22.22:866][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.22.22:866][783]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.22.22:866][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.22.22:866][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.22.22:867][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.22.22:867][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.22.22:867][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.22.22:871][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.22.23:065][783]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.22.23:066][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.22.23:066][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.22.23:066][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.22.23:066][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.05.02-23.22.23:066][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.05.02-23.22.23:070][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.05.02-23.22.23:070][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.05.02-23.22.23:070][783]LogInit: FAudioDevice initialized.
+[2022.05.02-23.22.23:070][783]LogAudio: Display: Audio Device (ID: 7) registered with world 'CrossyRoad'.
+[2022.05.02-23.22.23:084][783]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.22.23:085][783]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.22.23
+[2022.05.02-23.22.23:085][783]LogWorld: Bringing up level for play took: 0.000624
+[2022.05.02-23.22.23:088][783]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.05.02-23.22.23:089][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.22.23:089][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.22.23:090][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.22.23:090][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.22.23:090][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.22.23:090][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.22.23:091][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.22.23:091][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.22.23:091][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.22.23:091][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.22.23:092][783]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.22.23:092][783]PIE: Server logged in
+[2022.05.02-23.22.23:093][783]PIE: Play in editor total start time 0.308 seconds.
+[2022.05.02-23.22.28:467][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.22.28:467][850]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.22.28:467][850]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.22.28:468][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.22.28:538][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.22.28:547][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.22.28:619][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.22.28:619][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.02-23.22.28:622][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.02-23.22.28:640][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.05.02-23.22.28:714][851]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.02-23.25.49:581][103]BlueprintLog: New page: Compile BP_Truck
+[2022.05.02-23.25.49:791][103]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.05.02-23.25.50:527][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Truck" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset" SILENT=true
+[2022.05.02-23.25.50:538][108]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Truck
+[2022.05.02-23.25.50:541][108]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_Truck646066884A8D52937F3902B3509E3181.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_Truck.uasset'
+[2022.05.02-23.25.50:564][108]AssetCheck: New page: Asset Save: BP_Truck
+[2022.05.02-23.25.50:564][108]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Truck.BP_Truck
+[2022.05.02-23.25.52:941][132]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.25.52:968][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.25.52:969][132]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:25:52 AM)
+[2022.05.02-23.25.52:969][132]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.25.52:973][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004785s)
+[2022.05.02-23.25.52:974][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.005031s)
+[2022.05.02-23.25.52:974][132]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.25.52:974][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.25.52:975][132]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.25.52:976][132]LogPlayLevel: PIE: World Init took: (0.001960s)
+[2022.05.02-23.25.53:062][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.05.02-23.25.53:065][132]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.02-23.25.53:066][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.25.53:066][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.25.53:066][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.25.53:066][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.25.53:066][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.25.53:066][132]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.25.53:066][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.25.53:066][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.25.53:067][132]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.25.53:067][132]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.25.53:067][132]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.25.53:071][132]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.25.53:354][132]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.25.53:354][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.25.53:354][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.25.53:354][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.25.53:355][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.05.02-23.25.53:355][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.05.02-23.25.53:358][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.05.02-23.25.53:358][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.05.02-23.25.53:358][132]LogInit: FAudioDevice initialized.
+[2022.05.02-23.25.53:358][132]LogAudio: Display: Audio Device (ID: 8) registered with world 'CrossyRoad'.
+[2022.05.02-23.25.53:374][132]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.25.53:374][132]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.25.53
+[2022.05.02-23.25.53:375][132]LogWorld: Bringing up level for play took: 0.000656
+[2022.05.02-23.25.53:378][132]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.05.02-23.25.53:379][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.25.53:380][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.25.53:380][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.25.53:380][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.25.53:381][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.25.53:381][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.25.53:381][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.25.53:381][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.25.53:382][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.25.53:382][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.25.53:383][132]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.25.53:383][132]PIE: Server logged in
+[2022.05.02-23.25.53:384][132]PIE: Play in editor total start time 0.416 seconds.
+[2022.05.02-23.25.55:408][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.25.55:408][157]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.25.55:409][157]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.25.55:409][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.25.55:473][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.25.55:481][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.25.55:555][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-23.25.55:555][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.02-23.25.55:558][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.02-23.25.55:570][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.25.55:575][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.05.02-23.25.55:647][158]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.02-23.26.37:020][446]LogSlate: Window 'BP_TruckSpawner' being destroyed
+[2022.05.02-23.26.37:026][446]LogSlate: Window 'BP_TruckSpawner' being destroyed
+[2022.05.02-23.26.37:035][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.02-23.26.37:035][446]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.26.37:035][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.26.37:887][448]LogSlate: Window 'BP_Truck' being destroyed
+[2022.05.02-23.26.37:892][448]LogSlate: Window 'BP_Truck' being destroyed
+[2022.05.02-23.26.37:903][448]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.02-23.26.37:903][448]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.26.37:903][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.26.43:914][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Road.BP_Road
+[2022.05.02-23.26.43:915][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.28.16:102][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Truck.BP_Truck
+[2022.05.02-23.28.16:102][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.30.12:557][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.05.02-23.30.12:569][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrossyRoad" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/Autosaves/Game/CrossyRoad_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.02-23.30.12:592][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CrossyRoad_Auto1
+[2022.05.02-23.30.12:593][657]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/CrossyRoad_Auto14C5A64564780694302FB599CE24CE034.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/Autosaves/Game/CrossyRoad_Auto1.umap'
+[2022.05.02-23.30.12:602][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CrossyRoad' took 0.138
+[2022.05.02-23.30.12:602][657]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.138
+[2022.05.02-23.30.12:603][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/BP_Truck] ([2] browsable assets)...
+[2022.05.02-23.30.12:644][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Truck.BP_Truck]
+[2022.05.02-23.30.12:644][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Truck]
+[2022.05.02-23.30.12:644][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Truck" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/Autosaves/Game/BluePrints/BP_Truck_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.02-23.30.12:657][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/BP_Truck_Auto1
+[2022.05.02-23.30.12:658][657]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_Truck_Auto1F77D5F92403973527DB621BFEB9D56FD.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/Autosaves/Game/BluePrints/BP_Truck_Auto1.uasset'
+[2022.05.02-23.30.12:661][657]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.05.02-23.34.09:534][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner
+[2022.05.02-23.34.09:535][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.34.21:429][915]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.02-23.34.48:560][200]BlueprintLog: New page: Compile BP_TruckSpawner
+[2022.05.02-23.34.48:715][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.05.02-23.34.49:306][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_TruckSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_TruckSpawner.uasset" SILENT=true
+[2022.05.02-23.34.49:319][205]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_TruckSpawner
+[2022.05.02-23.34.49:321][205]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_TruckSpawner602770404DF6EDD26AA519AC29B1CF30.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_TruckSpawner.uasset'
+[2022.05.02-23.34.49:348][205]AssetCheck: New page: Asset Save: BP_TruckSpawner
+[2022.05.02-23.34.49:348][205]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner
+[2022.05.02-23.34.51:513][228]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.34.51:532][228]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.02-23.34.51:535][228]LogPlayLevel: [PlayLevel] Compiling BP_Truck before play...
+[2022.05.02-23.34.51:717][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.05.02-23.34.51:719][228]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2022.05.02-23.34.51:719][228]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:34:51 AM)
+[2022.05.02-23.34.51:719][228]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.34.51:723][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004563s)
+[2022.05.02-23.34.51:723][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.004708s)
+[2022.05.02-23.34.51:723][228]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.34.51:723][228]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.34.51:725][228]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.34.51:725][228]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2022.05.02-23.34.51:812][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.05.02-23.34.51:812][228]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.02-23.34.51:813][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.34.51:813][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.34.51:813][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.34.51:813][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.34.51:813][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.34.51:813][228]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.34.51:813][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.34.51:813][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.34.51:814][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.34.51:814][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.34.51:814][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.34.51:818][228]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.34.52:044][228]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.34.52:044][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.34.52:045][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.34.52:045][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.34.52:046][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.05.02-23.34.52:046][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.05.02-23.34.52:049][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.05.02-23.34.52:049][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.05.02-23.34.52:049][228]LogInit: FAudioDevice initialized.
+[2022.05.02-23.34.52:049][228]LogAudio: Display: Audio Device (ID: 9) registered with world 'CrossyRoad'.
+[2022.05.02-23.34.52:067][228]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.34.52:068][228]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.34.52
+[2022.05.02-23.34.52:069][228]LogWorld: Bringing up level for play took: 0.000621
+[2022.05.02-23.34.52:072][228]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.05.02-23.34.52:073][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Begin for
+[2022.05.02-23.34.52:073][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.34.52:075][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.34.52:075][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.34.52:076][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.34.52:076][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.34.52:077][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.34.52:077][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.34.52:078][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.34.52:078][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Looping
+[2022.05.02-23.34.52:078][228]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.34.52:079][228]PIE: Server logged in
+[2022.05.02-23.34.52:079][228]PIE: Play in editor total start time 0.547 seconds.
+[2022.05.02-23.34.58:856][287]LogBlueprintUserMessages: [BP_Road_C_0] Hello
+[2022.05.02-23.34.58:858][287]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.35.00:946][305]LogBlueprintUserMessages: [BP_Road_C_1] Hello
+[2022.05.02-23.35.00:947][305]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.35.02:550][319]LogBlueprintUserMessages: [BP_Road_C_2] Hello
+[2022.05.02-23.35.02:552][319]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.35.03:359][326]LogBlueprintUserMessages: [BP_Road_C_3] Hello
+[2022.05.02-23.35.03:360][326]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.35.04:638][337]LogBlueprintUserMessages: [BP_Road_C_4] Hello
+[2022.05.02-23.35.04:639][337]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.35.06:359][352]LogBlueprintUserMessages: [BP_Road_C_5] Hello
+[2022.05.02-23.35.06:361][352]LogBlueprintUserMessages: [BP_RoadSpawner_C_1] Road Spawned
+[2022.05.02-23.35.09:007][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.35.09:007][374]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.35.09:008][374]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.35.09:008][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.35.09:128][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.35.09:136][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.35.09:230][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.35.09:231][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.05.02-23.35.09:235][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.05.02-23.35.09:256][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.05.02-23.35.09:341][375]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.05.02-23.35.25:335][541]Cmd: DELETE
+[2022.05.02-23.35.25:335][541]Cmd: ACTOR DELETE
+[2022.05.02-23.35.25:432][541]LogEditorActor: Deleted Actor: BP_RoadSpawner_C
+[2022.05.02-23.35.25:533][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.05.02-23.35.25:538][541]LogEditorActor: Deleted 1 Actors (0.201 secs)
+[2022.05.02-23.35.26:776][555]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.35.26:793][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.35.26:793][555]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:35:26 AM)
+[2022.05.02-23.35.26:793][555]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.35.26:797][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003596s)
+[2022.05.02-23.35.26:797][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.003725s)
+[2022.05.02-23.35.26:797][555]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.35.26:797][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.35.26:798][555]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.35.26:798][555]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2022.05.02-23.35.26:858][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.05.02-23.35.26:859][555]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.02-23.35.26:859][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.35.26:859][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.35.26:859][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.35.26:859][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.35.26:859][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.35.26:859][555]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.35.26:859][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.35.26:859][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.35.26:860][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.35.26:860][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.35.26:860][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.35.26:864][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.35.27:041][555]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.35.27:042][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.35.27:042][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.35.27:042][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.35.27:043][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.05.02-23.35.27:043][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.05.02-23.35.27:046][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.05.02-23.35.27:046][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.05.02-23.35.27:046][555]LogInit: FAudioDevice initialized.
+[2022.05.02-23.35.27:046][555]LogAudio: Display: Audio Device (ID: 10) registered with world 'CrossyRoad'.
+[2022.05.02-23.35.27:060][555]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.35.27:060][555]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.35.27
+[2022.05.02-23.35.27:060][555]LogWorld: Bringing up level for play took: 0.000707
+[2022.05.02-23.35.27:063][555]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.05.02-23.35.27:066][555]PIE: Server logged in
+[2022.05.02-23.35.27:066][555]PIE: Play in editor total start time 0.274 seconds.
+[2022.05.02-23.35.30:199][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.35.30:199][590]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.35.30:200][590]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.35.30:200][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.35.30:296][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.35.30:302][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.35.30:393][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.35.30:394][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.02-23.35.30:396][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.02-23.35.30:417][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.05.02-23.35.30:452][591]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.02-23.35.36:162][661]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C
+[2022.05.02-23.35.36:162][661]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C
+[2022.05.02-23.35.36:164][661]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner as actor: BP_RoadSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_RoadSpawner_C_0
+[2022.05.02-23.35.36:164][661]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner as actor: BP_RoadSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_RoadSpawner_C_0
+[2022.05.02-23.35.37:825][693]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C
+[2022.05.02-23.35.37:825][693]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner_C
+[2022.05.02-23.35.37:827][693]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner as actor: BP_RoadSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_RoadSpawner_C_2
+[2022.05.02-23.35.37:828][693]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_RoadSpawner.BP_RoadSpawner as actor: BP_RoadSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_RoadSpawner_C_2
+[2022.05.02-23.35.43:167][750]Cmd: DELETE
+[2022.05.02-23.35.43:167][750]Cmd: ACTOR DELETE
+[2022.05.02-23.35.43:174][750]LogEditorActor: Deleted Actor: BP_TruckSpawner_C
+[2022.05.02-23.35.43:281][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.05.02-23.35.43:285][750]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2022.05.02-23.35.47:144][805]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner_C
+[2022.05.02-23.35.47:145][805]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner_C
+[2022.05.02-23.35.47:146][805]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner as actor: BP_TruckSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_TruckSpawner_C_0
+[2022.05.02-23.35.47:147][805]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner as actor: BP_TruckSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_TruckSpawner_C_0
+[2022.05.02-23.35.48:472][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner_C
+[2022.05.02-23.35.48:472][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner_C
+[2022.05.02-23.35.48:474][832]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner as actor: BP_TruckSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_TruckSpawner_C_2
+[2022.05.02-23.35.48:475][832]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner as actor: BP_TruckSpawner_C /Game/CrossyRoad.CrossyRoad:PersistentLevel.BP_TruckSpawner_C_2
+[2022.05.02-23.35.52:054][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.35.52:078][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-23.35.52:078][870]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:35:52 AM)
+[2022.05.02-23.35.52:079][870]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.35.52:087][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007510s)
+[2022.05.02-23.35.52:087][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.007819s)
+[2022.05.02-23.35.52:087][870]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.35.52:087][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.35.52:088][870]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.35.52:089][870]LogPlayLevel: PIE: World Init took: (0.002104s)
+[2022.05.02-23.35.52:191][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.05.02-23.35.52:193][870]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.02-23.35.52:193][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.35.52:193][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.35.52:193][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.35.52:193][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.35.52:193][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.35.52:193][870]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.35.52:193][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.35.52:194][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.35.52:195][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.35.52:195][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.35.52:195][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.35.52:199][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.35.52:468][870]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.35.52:469][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.35.52:469][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.35.52:469][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.35.52:471][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.05.02-23.35.52:471][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.05.02-23.35.52:474][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.05.02-23.35.52:474][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.05.02-23.35.52:474][870]LogInit: FAudioDevice initialized.
+[2022.05.02-23.35.52:474][870]LogAudio: Display: Audio Device (ID: 11) registered with world 'CrossyRoad'.
+[2022.05.02-23.35.52:493][870]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.35.52:493][870]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.35.52
+[2022.05.02-23.35.52:494][870]LogWorld: Bringing up level for play took: 0.000710
+[2022.05.02-23.35.52:497][870]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.05.02-23.35.52:499][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Begin for
+[2022.05.02-23.35.52:499][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.35.52:500][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.35.52:500][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.35.52:500][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.35.52:500][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.35.52:501][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.35.52:501][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.35.52:502][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.35.52:502][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.35.52:503][870]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.35.52:504][870]PIE: Server logged in
+[2022.05.02-23.35.52:504][870]PIE: Play in editor total start time 0.427 seconds.
+[2022.05.02-23.35.54:367][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.35.54:367][886]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.35.54:368][886]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-23.35.54:368][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.35.54:488][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-23.35.54:496][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-23.35.54:590][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.02-23.35.54:590][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.05.02-23.35.54:593][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.05.02-23.35.54:608][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-23.35.54:612][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.05.02-23.35.54:674][887]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.05.02-23.35.57:838][918]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.05.02-23.36.02:377][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_TruckSpawner" FILE="../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_TruckSpawner.uasset" SILENT=true
+[2022.05.02-23.36.02:391][960]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_TruckSpawner
+[2022.05.02-23.36.02:393][960]LogSavePackage: Moving '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Saved/BP_TruckSpawner56CE4DF347865D9BA39249A15E242B96.tmp' to '../../../../../../Users/sys98/Desktop/CPSC 386/CrossyRoad/Content/BluePrints/BP_TruckSpawner.uasset'
+[2022.05.02-23.36.02:419][960]AssetCheck: New page: Asset Save: BP_TruckSpawner
+[2022.05.02-23.36.02:419][960]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_TruckSpawner.BP_TruckSpawner
+[2022.05.02-23.36.04:481][981]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.02-23.36.04:510][981]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.02-23.36.04:513][981]LogPlayLevel: [PlayLevel] Compiling BP_TruckSpawner before play...
+[2022.05.02-23.36.04:713][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.05.02-23.36.04:715][981]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2022.05.02-23.36.04:715][981]PIE: New page: PIE session: CrossyRoad (May 2, 2022, 9:36:04 AM)
+[2022.05.02-23.36.04:715][981]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CrossyRoad
+[2022.05.02-23.36.04:720][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004983s)
+[2022.05.02-23.36.04:720][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrossyRoad.CrossyRoad to /Game/UEDPIE_0_CrossyRoad.CrossyRoad (0.005157s)
+[2022.05.02-23.36.04:720][981]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-23.36.04:720][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-23.36.04:721][981]LogAIModule: Creating AISystem for world CrossyRoad
+[2022.05.02-23.36.04:721][981]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2022.05.02-23.36.04:804][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.05.02-23.36.04:805][981]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.02-23.36.04:805][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-23.36.04:805][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-23.36.04:805][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-23.36.04:805][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-23.36.04:805][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-23.36.04:805][981]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-23.36.04:805][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-23.36.04:805][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-23.36.04:806][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-23.36.04:806][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-23.36.04:806][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-23.36.04:809][981]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-23.36.05:045][981]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics SmartAudio HD)
+[2022.05.02-23.36.05:045][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-23.36.05:045][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-23.36.05:045][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-23.36.05:047][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.05.02-23.36.05:047][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.05.02-23.36.05:050][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.05.02-23.36.05:050][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.05.02-23.36.05:050][981]LogInit: FAudioDevice initialized.
+[2022.05.02-23.36.05:050][981]LogAudio: Display: Audio Device (ID: 12) registered with world 'CrossyRoad'.
+[2022.05.02-23.36.05:064][981]LogLoad: Game class is 'GM_player_C'
+[2022.05.02-23.36.05:065][981]LogWorld: Bringing World /Game/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 0) at 2022.05.02-16.36.05
+[2022.05.02-23.36.05:065][981]LogWorld: Bringing up level for play took: 0.000591
+[2022.05.02-23.36.05:069][981]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.05.02-23.36.05:070][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Begin for
+[2022.05.02-23.36.05:070][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.36.05:071][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.36.05:071][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.36.05:071][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.36.05:072][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.36.05:072][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.36.05:072][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.36.05:073][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.36.05:073][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Looping
+[2022.05.02-23.36.05:073][981]LogBlueprintUserMessages: [BP_RoadSpawner_C_2] Road Spawned
+[2022.05.02-23.36.05:073][981]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+BP_TruckSpawner_C.ReceiveBeginPlay
+
+[2022.05.02-23.36.05:190][981]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.117 s
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: 
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 840]
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: Type mismatch: Expected BP_TruckSpawner_C, Found REINST_BP_TruckSpawner_C_60
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: Stack: 
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: [Callstack] 0x00007ff85c9def34 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: [Callstack] 0x00007ff89169b356 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: [Callstack] 0x00007ff891b456ba UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: [Callstack] 0x00007ff8a4f2e2bb UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: [Callstack] 0x00007ff8a4f3fe10 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.05.02-23.36.05:190][981]LogOutputDevice: Error: [Callstack] 0x00007ff8a4f02ea1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff8a4f021b4 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff8a4cdbcb7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff8a4f017a7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff85c5f0244 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff85c5b9eb6 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff85c5c4e3f UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff85e3b82c2 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff85cef9111 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff85e2e4948 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff85ceb3a15 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff891819198 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff89184e566 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff891819c42 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff89186cd2a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff891870537 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff89186fe21 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff89120d953 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff891b99f56 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff6183f82f6 UnrealEditor.exe!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff618410d9c UnrealEditor.exe!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff618410e8a UnrealEditor.exe!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff618413c4d UnrealEditor.exe!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff618425534 UnrealEditor.exe!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff6184286e6 UnrealEditor.exe!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff8f7ca54e0 KERNEL32.DLL!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: [Callstack] 0x00007ff8f884485b ntdll.dll!UnknownFunction []
+[2022.05.02-23.36.05:191][981]LogOutputDevice: Error: 
